@@ -1,0 +1,40 @@
+\pagestyle{empty}
+%
+
+
+
+% \begin{tikzpicture}[remember picture, overlay]
+%   % 1. Coloca la imagen abarcando toda la hoja 
+%   \node[inner sep=0pt, at=(current page.center)] {
+%     \includegraphics[width=\paperwidth, height=\paperheight]{ImagenesFormato/image1.jpg}
+%   };
+
+%   % 2. Coloca el texto en blanco exactamente en el centro de la página
+%   \node[white, align=center] at (current page.center) {
+%     {\Huge \textbf{Tu Texto Aquí}}
+%   };
+% \end{tikzpicture}
+
+
+\begin{tikzpicture}[remember picture,overlay]
+\AddToShipoutPictureBG*{%
+    \AtPageLowerLeft{%
+        \includegraphics[width=\paperwidth,height=\paperheight]{ImagenesFormato/image1.jpg}
+    }%
+}
+
+\mbox{}
+% Texto sobre la imagen
+\node[
+    text=white,
+    font=\fontsize{18}{20}\selectfont\bfseries,
+    align=center,
+    text width=10cm
+] at (current page.center)
+{
+    Como en la conversación anterior estabas convirtiendo un documento\\ 
+    de Word a LaTeX, normalmente lo mejor es usar
+};
+
+\end{tikzpicture}
+

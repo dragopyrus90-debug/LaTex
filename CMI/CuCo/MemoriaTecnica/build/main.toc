@@ -1,0 +1,2 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Requisitos técnicos de TIBCO EBX }{4}{section.1}%

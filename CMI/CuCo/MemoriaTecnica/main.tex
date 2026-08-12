@@ -1,0 +1,86 @@
+\documentclass{article}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{eso-pic}
+\usepackage{tikz}
+\usepackage{float}
+\usepackage{background}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc} % Solo si usas LaTeX
+\usepackage[spanish]{babel}
+\usepackage[expansion=false]{microtype}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{xcolor}
+\usepackage{hyperref} %% hipervínculos
+
+%\usepackage{ragged2e} %justificación
+\usepackage[dvipsnames]{xcolor} %color 
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.8em}
+
+%\pagestyle{empty}
+
+%%-----------INICIO Enumeración de pagina--------%%
+\pagestyle{fancy}
+\fancyhf{} % Limpia encabezados y pies
+\fancyfoot[R]{\thepage} % Número de página centrado en el pie
+\renewcommand{\headrulewidth}{0pt} % Quita la línea del encabezado
+\renewcommand{\footrulewidth}{0pt} % Sin línea en el pie
+
+%%-----------FIN Enumeración de paginas--------%%
+
+\backgroundsetup{
+    scale=1,
+    angle=0,
+    opacity=0.15, % Transparencia
+    contents={
+        \includegraphics[width=\paperwidth,height=\paperheight]{ImagenesFormato/fondo.jpg}
+    }
+}
+
+%% --------- Color de secciones y niveles----
+
+\definecolor{alldatum}{HTML}{000080} % Ejemplo de color
+
+\newcommand{\centersection}[1]{%
+  \begin{center}
+    {\Large\bfseries\color{alldatum} #1}
+  \end{center}
+}
+
+
+\begin{document}
+%% --------- INICIO --- Redefinir color de secciones y niveles----%%
+%Sección
+\titleformat{\section}
+{\Large\bfseries\color{alldatum}}
+{\thesection}{2em}{}
+
+% Subsección
+\titleformat{\subsection}
+{\large\bfseries\color{alldatum}}
+{\thesubsection}{1em}{}
+
+% Sub subsección
+\titleformat{\subsubsection}
+{\normalsize\bfseries\color{alldatum}}
+{\thesubsubsection}{0.5em}{}
+
+%% --------- FIN --- Redefinir color de secciones y niveles----%%
+
+
+
+%%%----- avisos de confidencialidad -----
+\input{Confidencialidad}
+\input{CMI_TITULO}
+%%-------- índice ------%%
+\renewcommand{\contentsname}{Tabla de Contenido}
+\tableofcontents
+
+\newpage
+%% -------- Requerimientos ------
+\input{Instalacion/RequerimientosTecnicos}
+%\input{Instalacion/RequerimientosArquitectura}
+
+\end{document}
