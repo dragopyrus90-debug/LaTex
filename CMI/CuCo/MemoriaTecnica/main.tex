@@ -13,11 +13,13 @@
 \usepackage{titlesec}
 \usepackage{xcolor}
 \usepackage{hyperref} %% hipervínculos
+\usepackage{textcomp} %% para usar ' 
 
 %\usepackage{ragged2e} %justificación
 \usepackage[dvipsnames]{xcolor} %color 
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{0.8em}
+
 
 %\pagestyle{empty}
 
@@ -54,12 +56,12 @@
 %% --------- INICIO --- Redefinir color de secciones y niveles----%%
 %Sección
 \titleformat{\section}
-{\Large\bfseries\color{alldatum}}
+{\normalfont\Large\bfseries\raggedright\color{alldatum}}
 {\thesection}{2em}{}
 
 % Subsección
 \titleformat{\subsection}
-{\large\bfseries\color{alldatum}}
+{\normalfont\large\bfseries\raggedright\color{alldatum}}
 {\thesubsection}{1em}{}
 
 % Sub subsección
@@ -80,7 +82,31 @@
 
 \newpage
 %% -------- Requerimientos ------
-\input{Instalacion/RequerimientosTecnicos}
-%\input{Instalacion/RequerimientosArquitectura}
+% \input{Instalacion/RequerimientosTecnicos}
+% \input{Instalacion/RequerimientosArquitectura}
+
+
+% %%----------- INSTALACIONES%
+% \input{Instalacion/PasosDescargaEBX}
+% \input{Instalacion/PasosInstalacionEBX}
+% \input{Instalacion/ConexionLDAP}
+
+
+% %%----modelos
+% \input{ModeloDatos/ModeloDatos}
+
+
+% %% ########## Espacio, Reglas y Perspectivas
+
+% \input{EspacioReglasPerspectiva/EspacioDatos.tex}
+
+%% ####### Workflows y Dashboard
+
+\input{WorkflowsDashboard/WorkflowsDashboard.tex}
+
+
+%#### ROLES Y USUARIOS
+
+\input{RolesUsuario/RolesUsuarios.tex}
 
 \end{document}
