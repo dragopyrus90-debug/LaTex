@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.11)  14 AUG 2026 16:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.11)  17 AUG 2026 13:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -495,37 +495,64 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 \Hy@SectionHShift=\skip68
 ) (C:\Users\Alldatum Business\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
 Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+) (C:\Users\Alldatum Business\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2026/02/24 v2.7b Tabular extension package (FMi)
+\col@sep=\dimen280
+\ar@mcellbox=\box70
+\extrarowheight=\dimen281
+\NC@list=\toks43
+\extratabsurround=\skip69
+\backup@length=\skip70
+\ar@cellbox=\box71
 ) (C:\Users\Alldatum Business\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
 File: dvipsnam.def 2026-05-17 v3.0m Driver-dependent file (DPC,SPQR)
+) (C:\Users\Alldatum Business\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2026-01-28 v4.27 Multi-page Table package (DPC)
+\LTleft=\skip71
+\LTright=\skip72
+\LTpre=\skip73
+\LTpost=\skip74
+\LTchunksize=\count327
+\LTcapwidth=\dimen282
+\LT@head=\box72
+\LT@firsthead=\box73
+\LT@foot=\box74
+\LT@lastfoot=\box75
+\LT@gbox=\box76
+\LT@cols=\count328
+\LT@rows=\count329
+\c@LT@tables=\count330
+\c@LT@chunks=\count331
+\LT@p@ftn=\toks44
 ) (C:\Users\Alldatum Business\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2026-07-20 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count327
+\l__color_backend_stack_int=\count332
 ) (c:\Users\Alldatum Business\Desktop\LaTex\CMI\CuCo\MemoriaTecnica\build\main.aux
-LaTeX Info: Redefining \. on input line 12.
-LaTeX Info: Redefining \% on input line 12.
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
-(babel)             Reported on input line 12.
+(babel)             Reported on input line 11.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -563,32 +590,32 @@ LaTeX Font Info:    ... okay on input line 55.
 
 (C:\Users\Alldatum Business\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count328
-\scratchdimen=\dimen280
-\scratchbox=\box70
-\nofMPsegments=\count329
-\nofMParguments=\count330
-\everyMPshowfont=\toks43
-\MPscratchCnt=\count331
-\MPscratchDim=\dimen281
-\MPnumerator=\count332
-\makeMPintoPDFobject=\count333
-\everyMPtoPDFconversion=\toks44
+\scratchcounter=\count333
+\scratchdimen=\dimen283
+\scratchbox=\box77
+\nofMPsegments=\count334
+\nofMParguments=\count335
+\everyMPshowfont=\toks45
+\MPscratchCnt=\count336
+\MPscratchDim=\dimen284
+\MPnumerator=\count337
+\makeMPintoPDFobject=\count338
+\everyMPtoPDFconversion=\toks46
 ) (C:\Users\Alldatum Business\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Users\Alldatum Business\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Info: Redefining \. on input line 55.
-LaTeX Info: Redefining \% on input line 55.
-LaTeX Info: Redefining \microtypecontext on input line 55.
-Package microtype Info: Applying patch `item' on input line 55.
-Package microtype Info: Applying patch `toc' on input line 55.
-Package microtype Info: Applying patch `eqnum' on input line 55.
-Package microtype Info: Applying patch `footnote' on input line 55.
-Package microtype Info: Applying patch `verbatim' on input line 55.
-LaTeX Info: Redefining \microtypesetup on input line 55.
+LaTeX Info: Redefining \. on input line 56.
+LaTeX Info: Redefining \% on input line 56.
+LaTeX Info: Redefining \microtypecontext on input line 56.
+Package microtype Info: Applying patch `item' on input line 56.
+Package microtype Info: Applying patch `toc' on input line 56.
+Package microtype Info: Applying patch `eqnum' on input line 56.
+Package microtype Info: Applying patch `footnote' on input line 56.
+Package microtype Info: Applying patch `verbatim' on input line 56.
+LaTeX Info: Redefining \microtypesetup on input line 56.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -599,316 +626,1072 @@ Package microtype Info: No adjustment of character kerning.
  (C:\Users\Alldatum Business\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
-Package hyperref Info: Link coloring OFF on input line 55.
+Package hyperref Info: Link coloring OFF on input line 56.
  (c:\Users\Alldatum Business\Desktop\LaTex\CMI\CuCo\MemoriaTecnica\build\main.out) (c:\Users\Alldatum Business\Desktop\LaTex\CMI\CuCo\MemoriaTecnica\build\main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
 Package babel Info: Main language set to 'spanish'.
- (Confidencialidad.tex
-<ImagenesFormato/fondo.jpg, id=30, 614.295pt x 794.97pt>
+ (Portada.tex
+<ImagenesFormato/image1.jpg, id=154, 614.295pt x 794.97pt>
+File: ImagenesFormato/image1.jpg Graphic file (type jpg)
+<use ImagenesFormato/image1.jpg>
+Package pdftex.def Info: ImagenesFormato/image1.jpg  used on input line 56.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+
+
+LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <18> not available
+(Font)              size <17.28> substituted on input line 65.
+
+
+LaTeX Font Warning: Font shape `T1/cmr/bx/n' in size <18> not available
+(Font)              size <17.28> substituted on input line 65.
+
+) [1
+
+{C:/Users/Alldatum Business/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./ImagenesFormato/image1.jpg>] (Confidencialidad.tex
+<ImagenesFormato/fondo.jpg, id=161, 614.295pt x 794.97pt>
 File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
 <use ImagenesFormato/fondo.jpg>
 Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 12.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
- [1
-
-{C:/Users/Alldatum Business/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./ImagenesFormato/fondo.jpg>]) (CMI_TITULO.tex
-<CMI/CMILogo.png, id=39, 291.33844pt x 97.86563pt>
+ [2 <./ImagenesFormato/fondo.jpg>]) (CMI_TITULO.tex
+<CMI/CMILogo.png, id=169, 291.33844pt x 97.86563pt>
 File: CMI/CMILogo.png Graphic file (type png)
 <use CMI/CMILogo.png>
 Package pdftex.def Info: CMI/CMILogo.png  used on input line 6.
 (pdftex.def)             Requested size: 344.005pt x 115.56703pt.
-<CMI/CMILetras.png, id=40, 486.31688pt x 131.74219pt>
+<CMI/CMILetras.png, id=170, 486.31688pt x 131.74219pt>
 File: CMI/CMILetras.png Graphic file (type png)
 <use CMI/CMILetras.png>
 Package pdftex.def Info: CMI/CMILetras.png  used on input line 11.
 (pdftex.def)             Requested size: 344.005pt x 93.18982pt.
-) (c:\Users\Alldatum Business\Desktop\LaTex\CMI\CuCo\MemoriaTecnica\build\main.toc
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
+)
 File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
 <use ImagenesFormato/fondo.jpg>
-Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 3.
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 82.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
- [2 <./CMI/CMILogo.png> <./CMI/CMILetras.png>]
+ [3 <./CMI/CMILogo.png> <./CMI/CMILetras.png>] (c:\Users\Alldatum Business\Desktop\LaTex\CMI\CuCo\MemoriaTecnica\build\main.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 3.
+(Font)              <7> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 3.
-)
+(Font)              <5> on input line 4.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 25.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [4])
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
 File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
 <use ImagenesFormato/fondo.jpg>
-Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 83.
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 86.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
- [3] (WorkflowsDashboard/WorkflowsDashboard.tex (WorkflowsDashboard/Workflow.tex
-<WorkflowsDashboard/ImgWF/WF01.png, id=57, 378.41376pt x 92.345pt>
-File: WorkflowsDashboard/ImgWF/WF01.png Graphic file (type png)
-<use WorkflowsDashboard/ImgWF/WF01.png>
-Package pdftex.def Info: WorkflowsDashboard/ImgWF/WF01.png  used on input line 10.
-(pdftex.def)             Requested size: 344.005pt x 83.94951pt.
-<WorkflowsDashboard/ImgWF/WF02.png, id=58, 497.4585pt x 123.46124pt>
-File: WorkflowsDashboard/ImgWF/WF02.png Graphic file (type png)
-<use WorkflowsDashboard/ImgWF/WF02.png>
-Package pdftex.def Info: WorkflowsDashboard/ImgWF/WF02.png  used on input line 26.
-(pdftex.def)             Requested size: 344.005pt x 85.3786pt.
-<WorkflowsDashboard/ImgWF/WF03.png, id=59, 690.78075pt x 115.632pt>
-File: WorkflowsDashboard/ImgWF/WF03.png Graphic file (type png)
-<use WorkflowsDashboard/ImgWF/WF03.png>
-Package pdftex.def Info: WorkflowsDashboard/ImgWF/WF03.png  used on input line 36.
-(pdftex.def)             Requested size: 344.005pt x 57.58647pt.
+ [5] (Instalacion/RequerimientosTecnicos.tex) (Instalacion/RequerimientosArquitectura.tex
 File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
 <use ImagenesFormato/fondo.jpg>
-Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 38.
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 13.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
- [4 <./WorkflowsDashboard/ImgWF/WF01.png> <./WorkflowsDashboard/ImgWF/WF02.png>]
-Overfull \hbox (82.37614pt too wide) in paragraph at lines 42--55
- [][] 
+ [6]
+<Requerimientos/Arquitectura/ReqArquitectura.png, id=228, 307.90031pt x 233.37187pt>
+File: Requerimientos/Arquitectura/ReqArquitectura.png Graphic file (type png)
+<use Requerimientos/Arquitectura/ReqArquitectura.png>
+Package pdftex.def Info: Requerimientos/Arquitectura/ReqArquitectura.png  used on input line 27.
+(pdftex.def)             Requested size: 171.99922pt x 130.36687pt.
+) (Instalacion/PasosDescargaEBX.tex
+<Requerimientos/Instalacion/I01.png, id=232, 248.6745pt x 123.516pt>
+File: Requerimientos/Instalacion/I01.png Graphic file (type png)
+<use Requerimientos/Instalacion/I01.png>
+Package pdftex.def Info: Requerimientos/Instalacion/I01.png  used on input line 9.
+(pdftex.def)             Requested size: 171.99922pt x 85.43155pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 12.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [7 <./Requerimientos/Arquitectura/ReqArquitectura.png>]
+<Requerimientos/Instalacion/I02.png, id=242, 186.588pt x 164.25pt>
+File: Requerimientos/Instalacion/I02.png Graphic file (type png)
+<use Requerimientos/Instalacion/I02.png>
+Package pdftex.def Info: Requerimientos/Instalacion/I02.png  used on input line 16.
+(pdftex.def)             Requested size: 171.99922pt x 151.41507pt.
+<Requerimientos/Instalacion/I03.png, id=243, 298.935pt x 141.912pt>
+File: Requerimientos/Instalacion/I03.png Graphic file (type png)
+<use Requerimientos/Instalacion/I03.png>
+Package pdftex.def Info: Requerimientos/Instalacion/I03.png  used on input line 23.
+(pdftex.def)             Requested size: 171.99922pt x 81.65504pt.
+<Requerimientos/Instalacion/I04.png, id=244, 306.162pt x 189.216pt>
+File: Requerimientos/Instalacion/I04.png Graphic file (type png)
+<use Requerimientos/Instalacion/I04.png>
+Package pdftex.def Info: Requerimientos/Instalacion/I04.png  used on input line 30.
+(pdftex.def)             Requested size: 171.99922pt x 106.30092pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 33.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [8 <./Requerimientos/Instalacion/I01.png> <./Requerimientos/Instalacion/I02.png> <./Requerimientos/Instalacion/I03.png>]
+<Requerimientos/Instalacion/I05.png, id=252, 302.63063pt x 144.54pt>
+File: Requerimientos/Instalacion/I05.png Graphic file (type png)
+<use Requerimientos/Instalacion/I05.png>
+Package pdftex.def Info: Requerimientos/Instalacion/I05.png  used on input line 37.
+(pdftex.def)             Requested size: 171.99922pt x 82.14824pt.
+<Requerimientos/Instalacion/I06.png, id=253, 824.32968pt x 432.86719pt>
+File: Requerimientos/Instalacion/I06.png Graphic file (type png)
+<use Requerimientos/Instalacion/I06.png>
+Package pdftex.def Info: Requerimientos/Instalacion/I06.png  used on input line 44.
+(pdftex.def)             Requested size: 171.99922pt x 90.31694pt.
+<Requerimientos/Instalacion/I07.png, id=254, 572.89032pt x 225.84375pt>
+File: Requerimientos/Instalacion/I07.png Graphic file (type png)
+<use Requerimientos/Instalacion/I07.png>
+Package pdftex.def Info: Requerimientos/Instalacion/I07.png  used on input line 51.
+(pdftex.def)             Requested size: 171.99922pt x 67.80533pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 54.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [9 <./Requerimientos/Instalacion/I04.png> <./Requerimientos/Instalacion/I05.png> <./Requerimientos/Instalacion/I06.png>]
+<Requerimientos/Instalacion/I08.png, id=263, 207.612pt x 143.5545pt>
+File: Requerimientos/Instalacion/I08.png Graphic file (type png)
+<use Requerimientos/Instalacion/I08.png>
+Package pdftex.def Info: Requerimientos/Instalacion/I08.png  used on input line 58.
+(pdftex.def)             Requested size: 171.99922pt x 118.92897pt.
+) (Instalacion/PasosInstalacionEBX.tex
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <10> not available
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 8.
+<Requerimientos/Instalacion/I09.png, id=264, 563.706pt x 221.02576pt>
+File: Requerimientos/Instalacion/I09.png Graphic file (type png)
+<use Requerimientos/Instalacion/I09.png>
+Package pdftex.def Info: Requerimientos/Instalacion/I09.png  used on input line 19.
+(pdftex.def)             Requested size: 301.00192pt x 118.02333pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 22.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [10 <./Requerimientos/Instalacion/I07.png> <./Requerimientos/Instalacion/I08.png>]
+<Requerimientos/Instalacion/I10.png, id=277, 682.80093pt x 309.40594pt>
+File: Requerimientos/Instalacion/I10.png Graphic file (type png)
+<use Requerimientos/Instalacion/I10.png>
+Package pdftex.def Info: Requerimientos/Instalacion/I10.png  used on input line 26.
+(pdftex.def)             Requested size: 301.00192pt x 136.3987pt.
+
+Overfull \hbox (46.50331pt too wide) in paragraph at lines 23--28
+[]\T1/cmr/m/n/10 Se de-be-rá edi-tar el ar-chi-vo \T1/cmr/bx/n/10 ebx.properties \T1/cmr/m/n/10 que se en-cuen-tra den-tro de la car-pe-ta \T1/cmr/bx/n/10 C:\EBX\EBXHome;
  []
 
-<WorkflowsDashboard/ImgWF/WF04.png, id=69, 657.05475pt x 145.14224pt>
-File: WorkflowsDashboard/ImgWF/WF04.png Graphic file (type png)
-<use WorkflowsDashboard/ImgWF/WF04.png>
-Package pdftex.def Info: WorkflowsDashboard/ImgWF/WF04.png  used on input line 63.
-(pdftex.def)             Requested size: 344.005pt x 75.99042pt.
+<Requerimientos/Instalacion/I11.png, id=278, 443.1465pt x 83.7675pt>
+File: Requerimientos/Instalacion/I11.png Graphic file (type png)
+<use Requerimientos/Instalacion/I11.png>
+Package pdftex.def Info: Requerimientos/Instalacion/I11.png  used on input line 33.
+(pdftex.def)             Requested size: 301.00192pt x 56.89977pt.
+<Requerimientos/Instalacion/I12.png, id=279, 515.526pt x 333.04425pt>
+File: Requerimientos/Instalacion/I12.png Graphic file (type png)
+<use Requerimientos/Instalacion/I12.png>
+Package pdftex.def Info: Requerimientos/Instalacion/I12.png  used on input line 45.
+(pdftex.def)             Requested size: 301.00192pt x 194.46165pt.
 
-Overfull \hbox (46.52379pt too wide) in paragraph at lines 69--82
- [][] 
+Overfull \hbox (11.9847pt too wide) in paragraph at lines 42--47
+[]\T1/cmr/m/n/10 Editar el ar-chi-vo ca-ta-li-na.properties que se en-cuen-tra en la ru-ta C:\EBX\TomCat\apache.tomcat
  []
 
-<WorkflowsDashboard/ImgWF/WF05.png, id=70, 2707.86656pt x 1020.81375pt>
-File: WorkflowsDashboard/ImgWF/WF05.png Graphic file (type png)
-<use WorkflowsDashboard/ImgWF/WF05.png>
-Package pdftex.def Info: WorkflowsDashboard/ImgWF/WF05.png  used on input line 90.
-(pdftex.def)             Requested size: 344.005pt x 129.67305pt.
 File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
 <use ImagenesFormato/fondo.jpg>
-Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 93.
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 47.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-[5 <./WorkflowsDashboard/ImgWF/WF03.png> <./WorkflowsDashboard/ImgWF/WF04.png>]
-<WorkflowsDashboard/ImgWF/WF06.png, id=79, 4589.89781pt x 953.06062pt>
-File: WorkflowsDashboard/ImgWF/WF06.png Graphic file (type png)
-<use WorkflowsDashboard/ImgWF/WF06.png>
-Package pdftex.def Info: WorkflowsDashboard/ImgWF/WF06.png  used on input line 100.
-(pdftex.def)             Requested size: 344.005pt x 71.41829pt.
-<WorkflowsDashboard/ImgWF/WF07.png, id=80, 5474.4525pt x 1005.00468pt>
-File: WorkflowsDashboard/ImgWF/WF07.png Graphic file (type png)
-<use WorkflowsDashboard/ImgWF/WF07.png>
-Package pdftex.def Info: WorkflowsDashboard/ImgWF/WF07.png  used on input line 110.
-(pdftex.def)             Requested size: 344.005pt x 63.15001pt.
+[11 <./Requerimientos/Instalacion/I09.png> <./Requerimientos/Instalacion/I10.png> <./Requerimientos/Instalacion/I11.png>]
+<Requerimientos/Instalacion/I13.png, id=292, 392.06474pt x 432.4155pt>
+File: Requerimientos/Instalacion/I13.png Graphic file (type png)
+<use Requerimientos/Instalacion/I13.png>
+Package pdftex.def Info: Requerimientos/Instalacion/I13.png  used on input line 52.
+(pdftex.def)             Requested size: 301.00192pt x 331.97784pt.
 File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
 <use ImagenesFormato/fondo.jpg>
-Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 117.
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 55.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
- [6 <./WorkflowsDashboard/ImgWF/WF05.png> <./WorkflowsDashboard/ImgWF/WF06.png> <./WorkflowsDashboard/ImgWF/WF07.png>]
-<WorkflowsDashboard/ImgWF/WF08.png, id=91, 4721.64pt x 960.58875pt>
-File: WorkflowsDashboard/ImgWF/WF08.png Graphic file (type png)
-<use WorkflowsDashboard/ImgWF/WF08.png>
-Package pdftex.def Info: WorkflowsDashboard/ImgWF/WF08.png  used on input line 120.
-(pdftex.def)             Requested size: 344.005pt x 69.97435pt.
-<WorkflowsDashboard/ImgWF/WF09.png, id=92, 3287.53218pt x 1020.81375pt>
-File: WorkflowsDashboard/ImgWF/WF09.png Graphic file (type png)
-<use WorkflowsDashboard/ImgWF/WF09.png>
-Package pdftex.def Info: WorkflowsDashboard/ImgWF/WF09.png  used on input line 130.
-(pdftex.def)             Requested size: 344.005pt x 106.80698pt.
-<WorkflowsDashboard/ImgWF/WF10.png, id=93, 5835.8025pt x 1005.00468pt>
-File: WorkflowsDashboard/ImgWF/WF10.png Graphic file (type png)
-<use WorkflowsDashboard/ImgWF/WF10.png>
-Package pdftex.def Info: WorkflowsDashboard/ImgWF/WF10.png  used on input line 140.
-(pdftex.def)             Requested size: 344.005pt x 59.23955pt.
+ [12 <./Requerimientos/Instalacion/I12.png>]
+<Requerimientos/Instalacion/I14.png, id=301, 392.06474pt x 432.4155pt>
+File: Requerimientos/Instalacion/I14.png Graphic file (type png)
+<use Requerimientos/Instalacion/I14.png>
+Package pdftex.def Info: Requerimientos/Instalacion/I14.png  used on input line 59.
+(pdftex.def)             Requested size: 301.00192pt x 331.97784pt.
 File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
 <use ImagenesFormato/fondo.jpg>
-Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 146.
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 62.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
- [7 <./WorkflowsDashboard/ImgWF/WF08.png> <./WorkflowsDashboard/ImgWF/WF09.png> <./WorkflowsDashboard/ImgWF/WF10.png>]
-<WorkflowsDashboard/ImgWF/WF11.png, id=105, 804.00375pt x 234.8775pt>
-File: WorkflowsDashboard/ImgWF/WF11.png Graphic file (type png)
-<use WorkflowsDashboard/ImgWF/WF11.png>
-Package pdftex.def Info: WorkflowsDashboard/ImgWF/WF11.png  used on input line 150.
-(pdftex.def)             Requested size: 344.005pt x 100.49359pt.
-<WorkflowsDashboard/ImgWF/WF12.png, id=106, 584.78474pt x 224.63925pt>
-File: WorkflowsDashboard/ImgWF/WF12.png Graphic file (type png)
-<use WorkflowsDashboard/ImgWF/WF12.png>
-Package pdftex.def Info: WorkflowsDashboard/ImgWF/WF12.png  used on input line 160.
-(pdftex.def)             Requested size: 344.005pt x 132.14523pt.
-<WorkflowsDashboard/ImgWF/WF13.png, id=107, 444.132pt x 103.806pt>
-File: WorkflowsDashboard/ImgWF/WF13.png Graphic file (type png)
-<use WorkflowsDashboard/ImgWF/WF13.png>
-Package pdftex.def Info: WorkflowsDashboard/ImgWF/WF13.png  used on input line 170.
-(pdftex.def)             Requested size: 344.005pt x 80.40445pt.
+ [13 <./Requerimientos/Instalacion/I13.png>]
 File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
 <use ImagenesFormato/fondo.jpg>
-Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 173.
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 73.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
- [8 <./WorkflowsDashboard/ImgWF/WF11.png> <./WorkflowsDashboard/ImgWF/WF12.png>]
-<WorkflowsDashboard/ImgWFMasivo/WFM01.png, id=116, 952.30782pt x 314.67563pt>
-File: WorkflowsDashboard/ImgWFMasivo/WFM01.png Graphic file (type png)
-<use WorkflowsDashboard/ImgWFMasivo/WFM01.png>
-Package pdftex.def Info: WorkflowsDashboard/ImgWFMasivo/WFM01.png  used on input line 182.
-(pdftex.def)             Requested size: 344.005pt x 113.67206pt.
-<WorkflowsDashboard/ImgWFMasivo/WFM02.png, id=117, 5065.92625pt x 787.94376pt>
-File: WorkflowsDashboard/ImgWFMasivo/WFM02.png Graphic file (type png)
-<use WorkflowsDashboard/ImgWFMasivo/WFM02.png>
-Package pdftex.def Info: WorkflowsDashboard/ImgWFMasivo/WFM02.png  used on input line 192.
-(pdftex.def)             Requested size: 344.005pt x 53.50252pt.
-<WorkflowsDashboard/ImgWFMasivo/CreacionMasivaPUC.png, id=118, 4960.5325pt x 1361.085pt>
-File: WorkflowsDashboard/ImgWFMasivo/CreacionMasivaPUC.png Graphic file (type png)
-<use WorkflowsDashboard/ImgWFMasivo/CreacionMasivaPUC.png>
-Package pdftex.def Info: WorkflowsDashboard/ImgWFMasivo/CreacionMasivaPUC.png  used on input line 203.
-(pdftex.def)             Requested size: 344.005pt x 94.37187pt.
+ [14 <./Requerimientos/Instalacion/I14.png>]
+<Requerimientos/Instalacion/I15.png, id=321, 428.802pt x 88.53075pt>
+File: Requerimientos/Instalacion/I15.png Graphic file (type png)
+<use Requerimientos/Instalacion/I15.png>
+Package pdftex.def Info: Requerimientos/Instalacion/I15.png  used on input line 76.
+(pdftex.def)             Requested size: 301.00192pt x 62.14668pt.
+<Requerimientos/Instalacion/I16.png, id=322, 444.15938pt x 127.97812pt>
+File: Requerimientos/Instalacion/I16.png Graphic file (type png)
+<use Requerimientos/Instalacion/I16.png>
+Package pdftex.def Info: Requerimientos/Instalacion/I16.png  used on input line 95.
+(pdftex.def)             Requested size: 301.00192pt x 86.72908pt.
+<Requerimientos/Instalacion/I17.png, id=323, 369.63094pt x 143.78719pt>
+File: Requerimientos/Instalacion/I17.png Graphic file (type png)
+<use Requerimientos/Instalacion/I17.png>
+Package pdftex.def Info: Requerimientos/Instalacion/I17.png  used on input line 102.
+(pdftex.def)             Requested size: 301.00192pt x 117.09007pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 105.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [15 <./Requerimientos/Instalacion/I15.png> <./Requerimientos/Instalacion/I16.png>]
+Overfull \hbox (29.37933pt too wide) in paragraph at lines 106--107
+[]\T1/cmr/m/n/10 Una vez ini-cia-do el ser-vi-dor, en-trar al na-ve-ga-dor web con el si-guien-te en-la-ce http://localhost:8080/ebx
+ []
+
+<Requerimientos/Instalacion/I18.png, id=338, 389.601pt x 209.2545pt>
+File: Requerimientos/Instalacion/I18.png Graphic file (type png)
+<use Requerimientos/Instalacion/I18.png>
+Package pdftex.def Info: Requerimientos/Instalacion/I18.png  used on input line 112.
+(pdftex.def)             Requested size: 301.00192pt x 161.66925pt.
+<Requerimientos/Instalacion/I19.png, id=339, 392.886pt x 209.583pt>
+File: Requerimientos/Instalacion/I19.png Graphic file (type png)
+<use Requerimientos/Instalacion/I19.png>
+Package pdftex.def Info: Requerimientos/Instalacion/I19.png  used on input line 120.
+(pdftex.def)             Requested size: 301.00192pt x 160.57031pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 123.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+[16 <./Requerimientos/Instalacion/I17.png> <./Requerimientos/Instalacion/I18.png>]
+<Requerimientos/Instalacion/I20.png, id=351, 419.823pt x 224.3655pt>
+File: Requerimientos/Instalacion/I20.png Graphic file (type png)
+<use Requerimientos/Instalacion/I20.png>
+Package pdftex.def Info: Requerimientos/Instalacion/I20.png  used on input line 128.
+(pdftex.def)             Requested size: 301.00192pt x 160.86516pt.
+<Requerimientos/Instalacion/I21.png, id=352, 419.823pt x 224.037pt>
+File: Requerimientos/Instalacion/I21.png Graphic file (type png)
+<use Requerimientos/Instalacion/I21.png>
+Package pdftex.def Info: Requerimientos/Instalacion/I21.png  used on input line 136.
+(pdftex.def)             Requested size: 301.00192pt x 160.62964pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 139.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [17 <./Requerimientos/Instalacion/I19.png> <./Requerimientos/Instalacion/I20.png>]
+<Requerimientos/Instalacion/I22.png, id=363, 444.15938pt x 76.03406pt>
+File: Requerimientos/Instalacion/I22.png Graphic file (type png)
+<use Requerimientos/Instalacion/I22.png>
+Package pdftex.def Info: Requerimientos/Instalacion/I22.png  used on input line 144.
+(pdftex.def)             Requested size: 301.00192pt x 51.52727pt.
+<Requerimientos/Instalacion/I25.png, id=364, 444.15938pt x 127.97812pt>
+File: Requerimientos/Instalacion/I25.png Graphic file (type png)
+<use Requerimientos/Instalacion/I25.png>
+Package pdftex.def Info: Requerimientos/Instalacion/I25.png  used on input line 157.
+(pdftex.def)             Requested size: 301.00192pt x 86.72908pt.
+<Requerimientos/Instalacion/I26.png, id=365, 444.15938pt x 76.03406pt>
+File: Requerimientos/Instalacion/I26.png Graphic file (type png)
+<use Requerimientos/Instalacion/I26.png>
+Package pdftex.def Info: Requerimientos/Instalacion/I26.png  used on input line 168.
+(pdftex.def)             Requested size: 301.00192pt x 51.52727pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 170.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [18 <./Requerimientos/Instalacion/I21.png> <./Requerimientos/Instalacion/I22.png> <./Requerimientos/Instalacion/I25.png>]
+<Requerimientos/Instalacion/I27.png, id=377, 333.49594pt x 173.89969pt>
+File: Requerimientos/Instalacion/I27.png Graphic file (type png)
+<use Requerimientos/Instalacion/I27.png>
+Package pdftex.def Info: Requerimientos/Instalacion/I27.png  used on input line 179.
+(pdftex.def)             Requested size: 301.00192pt x 156.9673pt.
+<Requerimientos/Instalacion/I28.png, id=378, 184.43906pt x 171.64125pt>
+File: Requerimientos/Instalacion/I28.png Graphic file (type png)
+<use Requerimientos/Instalacion/I28.png>
+Package pdftex.def Info: Requerimientos/Instalacion/I28.png  used on input line 187.
+(pdftex.def)             Requested size: 215.0023pt x 200.08348pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 190.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [19 <./Requerimientos/Instalacion/I26.png> <./Requerimientos/Instalacion/I27.png>]
+<Requerimientos/Instalacion/I29.png, id=389, 338.4645pt x 223.43475pt>
+File: Requerimientos/Instalacion/I29.png Graphic file (type png)
+<use Requerimientos/Instalacion/I29.png>
+Package pdftex.def Info: Requerimientos/Instalacion/I29.png  used on input line 195.
+(pdftex.def)             Requested size: 301.00192pt x 198.71652pt.
+<Requerimientos/Instalacion/I30.png, id=390, 381.22424pt x 314.3745pt>
+File: Requerimientos/Instalacion/I30.png Graphic file (type png)
+<use Requerimientos/Instalacion/I30.png>
+Package pdftex.def Info: Requerimientos/Instalacion/I30.png  used on input line 203.
+(pdftex.def)             Requested size: 301.00192pt x 248.21881pt.
 File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
 <use ImagenesFormato/fondo.jpg>
 Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 206.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
- [9 <./WorkflowsDashboard/ImgWF/WF13.png> <./WorkflowsDashboard/ImgWFMasivo/WFM01.png> <./WorkflowsDashboard/ImgWFMasivo/WFM02.png>]
-<WorkflowsDashboard/ImgWFMasivo/ModificacionMasivaPUC.png, id=129, 11237.985pt x 1340.00626pt>
+ [20 <./Requerimientos/Instalacion/I28.png> <./Requerimientos/Instalacion/I29.png>]
+<Requerimientos/Instalacion/I31.png, id=401, 385.44pt x 335.45325pt>
+File: Requerimientos/Instalacion/I31.png Graphic file (type png)
+<use Requerimientos/Instalacion/I31.png>
+Package pdftex.def Info: Requerimientos/Instalacion/I31.png  used on input line 211.
+(pdftex.def)             Requested size: 215.0023pt x 187.11545pt.
+<Requerimientos/Instalacion/I32.png, id=402, 388.45125pt x 354.123pt>
+File: Requerimientos/Instalacion/I32.png Graphic file (type png)
+<use Requerimientos/Instalacion/I32.png>
+Package pdftex.def Info: Requerimientos/Instalacion/I32.png  used on input line 219.
+(pdftex.def)             Requested size: 215.0023pt x 196.00563pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 221.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [21 <./Requerimientos/Instalacion/I30.png> <./Requerimientos/Instalacion/I31.png>]
+<Requerimientos/Instalacion/I33.png, id=412, 413.1435pt x 380.622pt>
+File: Requerimientos/Instalacion/I33.png Graphic file (type png)
+<use Requerimientos/Instalacion/I33.png>
+Package pdftex.def Info: Requerimientos/Instalacion/I33.png  used on input line 227.
+(pdftex.def)             Requested size: 215.0023pt x 198.07556pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 235.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [22 <./Requerimientos/Instalacion/I32.png> <./Requerimientos/Instalacion/I33.png>]
+<Requerimientos/Instalacion/I34.png, id=424, 453.19313pt x 115.18031pt>
+File: Requerimientos/Instalacion/I34.png Graphic file (type png)
+<use Requerimientos/Instalacion/I34.png>
+Package pdftex.def Info: Requerimientos/Instalacion/I34.png  used on input line 239.
+(pdftex.def)             Requested size: 301.00192pt x 76.50078pt.
+
+Overfull \hbox (23.52173pt too wide) in paragraph at lines 246--247
+\T1/cmr/m/n/10 tro de un na-ve-ga-dor in-gre-sar al ser-vi-cio de TIB-CO EBX con la URL https://localhost:8443/ebx
+ []
+
+<Requerimientos/Instalacion/I35.png, id=425, 502.87875pt x 34.62938pt>
+File: Requerimientos/Instalacion/I35.png Graphic file (type png)
+<use Requerimientos/Instalacion/I35.png>
+Package pdftex.def Info: Requerimientos/Instalacion/I35.png  used on input line 254.
+(pdftex.def)             Requested size: 301.00192pt x 20.72757pt.
+<Requerimientos/PruebasInstalacion/PF01.png, id=426, 446.4315pt x 239.148pt>
+File: Requerimientos/PruebasInstalacion/PF01.png Graphic file (type png)
+<use Requerimientos/PruebasInstalacion/PF01.png>
+Package pdftex.def Info: Requerimientos/PruebasInstalacion/PF01.png  used on input line 269.
+(pdftex.def)             Requested size: 301.00192pt x 161.25006pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 272.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+[23 <./Requerimientos/Instalacion/I34.png> <./Requerimientos/Instalacion/I35.png>]
+<Requerimientos/PruebasInstalacion/PF02.png, id=437, 443.1465pt x 178.047pt>
+File: Requerimientos/PruebasInstalacion/PF02.png Graphic file (type png)
+<use Requerimientos/PruebasInstalacion/PF02.png>
+Package pdftex.def Info: Requerimientos/PruebasInstalacion/PF02.png  used on input line 277.
+(pdftex.def)             Requested size: 301.00192pt x 120.93994pt.
+<Requerimientos/PruebasInstalacion/PF03.png, id=438, 446.4315pt x 239.4765pt>
+File: Requerimientos/PruebasInstalacion/PF03.png Graphic file (type png)
+<use Requerimientos/PruebasInstalacion/PF03.png>
+Package pdftex.def Info: Requerimientos/PruebasInstalacion/PF03.png  used on input line 284.
+(pdftex.def)             Requested size: 301.00192pt x 161.47156pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 287.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [24 <./Requerimientos/PruebasInstalacion/PF01.png> <./Requerimientos/PruebasInstalacion/PF02.png>]
+<Requerimientos/PruebasInstalacion/PF04.png, id=449, 446.4315pt x 239.148pt>
+File: Requerimientos/PruebasInstalacion/PF04.png Graphic file (type png)
+<use Requerimientos/PruebasInstalacion/PF04.png>
+Package pdftex.def Info: Requerimientos/PruebasInstalacion/PF04.png  used on input line 291.
+(pdftex.def)             Requested size: 301.00192pt x 161.25006pt.
+<Requerimientos/PruebasInstalacion/PF05.png, id=450, 446.4315pt x 241.119pt>
+File: Requerimientos/PruebasInstalacion/PF05.png Graphic file (type png)
+<use Requerimientos/PruebasInstalacion/PF05.png>
+Package pdftex.def Info: Requerimientos/PruebasInstalacion/PF05.png  used on input line 298.
+(pdftex.def)             Requested size: 301.00192pt x 162.57904pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 301.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [25 <./Requerimientos/PruebasInstalacion/PF03.png> <./Requerimientos/PruebasInstalacion/PF04.png>]) (Instalacion/ConexionLDAP.tex
+<Requerimientos/ConfiguracionLDAP-Bases/CL01.png, id=462, 367.3725pt x 187.45032pt>
+File: Requerimientos/ConfiguracionLDAP-Bases/CL01.png Graphic file (type png)
+<use Requerimientos/ConfiguracionLDAP-Bases/CL01.png>
+Package pdftex.def Info: Requerimientos/ConfiguracionLDAP-Bases/CL01.png  used on input line 16.
+(pdftex.def)             Requested size: 301.00192pt x 153.59583pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 19.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [26 <./Requerimientos/PruebasInstalacion/PF05.png>]
+<Requerimientos/ConfiguracionLDAP-Bases/CL02.png, id=471, 484.05844pt x 448.67625pt>
+File: Requerimientos/ConfiguracionLDAP-Bases/CL02.png Graphic file (type png)
+<use Requerimientos/ConfiguracionLDAP-Bases/CL02.png>
+Package pdftex.def Info: Requerimientos/ConfiguracionLDAP-Bases/CL02.png  used on input line 23.
+(pdftex.def)             Requested size: 301.00192pt x 279.01164pt.
+
+Overfull \hbox (120.61705pt too wide) in paragraph at lines 20--25
+\T1/cmr/m/n/10 La nue-va im-ple-men-ta-ción se apli-có den-tro de la cla-se: com.orchestranetworks.ps.customDirectory.LdapDirectoryFactoryV3
+ []
+
+<Requerimientos/ConfiguracionLDAP-Bases/CL03.png, id=472, 337.26pt x 242.40562pt>
+File: Requerimientos/ConfiguracionLDAP-Bases/CL03.png Graphic file (type png)
+<use Requerimientos/ConfiguracionLDAP-Bases/CL03.png>
+Package pdftex.def Info: Requerimientos/ConfiguracionLDAP-Bases/CL03.png  used on input line 30.
+(pdftex.def)             Requested size: 215.0023pt x 154.53615pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 32.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+[27 <./Requerimientos/ConfiguracionLDAP-Bases/CL01.png> <./Requerimientos/ConfiguracionLDAP-Bases/CL02.png>]
+<Requerimientos/ConfiguracionLDAP-Bases/CL04.png, id=482, 380.0745pt x 245.3895pt>
+File: Requerimientos/ConfiguracionLDAP-Bases/CL04.png Graphic file (type png)
+<use Requerimientos/ConfiguracionLDAP-Bases/CL04.png>
+Package pdftex.def Info: Requerimientos/ConfiguracionLDAP-Bases/CL04.png  used on input line 43.
+(pdftex.def)             Requested size: 215.0023pt x 138.81381pt.
+<Requerimientos/ConfiguracionLDAP-Bases/CL05.png, id=483, 386.973pt x 195.4575pt>
+File: Requerimientos/ConfiguracionLDAP-Bases/CL05.png Graphic file (type png)
+<use Requerimientos/ConfiguracionLDAP-Bases/CL05.png>
+Package pdftex.def Info: Requerimientos/ConfiguracionLDAP-Bases/CL05.png  used on input line 50.
+(pdftex.def)             Requested size: 215.0023pt x 108.5965pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 53.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [28 <./Requerimientos/ConfiguracionLDAP-Bases/CL03.png> <./Requerimientos/ConfiguracionLDAP-Bases/CL04.png>]
+<Requerimientos/ConfiguracionLDAP-Bases/CL06.png, id=495, 385.002pt x 202.6845pt>
+File: Requerimientos/ConfiguracionLDAP-Bases/CL06.png Graphic file (type png)
+<use Requerimientos/ConfiguracionLDAP-Bases/CL06.png>
+Package pdftex.def Info: Requerimientos/ConfiguracionLDAP-Bases/CL06.png  used on input line 67.
+(pdftex.def)             Requested size: 215.0023pt x 113.18707pt.
+<Requerimientos/ConfiguracionLDAP-Bases/CL07.png, id=496, 211.992pt x 96.96225pt>
+File: Requerimientos/ConfiguracionLDAP-Bases/CL07.png Graphic file (type png)
+<use Requerimientos/ConfiguracionLDAP-Bases/CL07.png>
+Package pdftex.def Info: Requerimientos/ConfiguracionLDAP-Bases/CL07.png  used on input line 74.
+(pdftex.def)             Requested size: 215.0023pt x 98.34239pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 77.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [29 <./Requerimientos/ConfiguracionLDAP-Bases/CL05.png> <./Requerimientos/ConfiguracionLDAP-Bases/CL06.png>]
+<Requerimientos/ConfiguracionLDAP-Bases/CL08.png, id=508, 431.9775pt x 202.356pt>
+File: Requerimientos/ConfiguracionLDAP-Bases/CL08.png Graphic file (type png)
+<use Requerimientos/ConfiguracionLDAP-Bases/CL08.png>
+Package pdftex.def Info: Requerimientos/ConfiguracionLDAP-Bases/CL08.png  used on input line 85.
+(pdftex.def)             Requested size: 215.0023pt x 100.71768pt.
+<Requerimientos/ConfiguracionLDAP-Bases/CL09.png, id=509, 361.6785pt x 178.3755pt>
+File: Requerimientos/ConfiguracionLDAP-Bases/CL09.png Graphic file (type png)
+<use Requerimientos/ConfiguracionLDAP-Bases/CL09.png>
+Package pdftex.def Info: Requerimientos/ConfiguracionLDAP-Bases/CL09.png  used on input line 92.
+(pdftex.def)             Requested size: 215.0023pt x 106.03812pt.
+<Requerimientos/ConfiguracionLDAP-Bases/CL10.png, id=510, 361.6785pt x 191.844pt>
+File: Requerimientos/ConfiguracionLDAP-Bases/CL10.png Graphic file (type png)
+<use Requerimientos/ConfiguracionLDAP-Bases/CL10.png>
+Package pdftex.def Info: Requerimientos/ConfiguracionLDAP-Bases/CL10.png  used on input line 103.
+(pdftex.def)             Requested size: 215.0023pt x 114.04466pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 105.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [30 <./Requerimientos/ConfiguracionLDAP-Bases/CL07.png> <./Requerimientos/ConfiguracionLDAP-Bases/CL08.png> <./Requerimientos/ConfiguracionLDAP-Bases/CL09.png>]
+<Requerimientos/ConfiguracionLDAP-Bases/CL11.png, id=522, 361.35pt x 183.96pt>
+File: Requerimientos/ConfiguracionLDAP-Bases/CL11.png Graphic file (type png)
+<use Requerimientos/ConfiguracionLDAP-Bases/CL11.png>
+Package pdftex.def Info: Requerimientos/ConfiguracionLDAP-Bases/CL11.png  used on input line 118.
+(pdftex.def)             Requested size: 344.005pt x 175.13152pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 123.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [31 <./Requerimientos/ConfiguracionLDAP-Bases/CL10.png> <./Requerimientos/ConfiguracionLDAP-Bases/CL11.png>]
+<Requerimientos/ConfiguracionLDAP-Bases/CL12.png, id=532, 266.79675pt x 107.2005pt>
+File: Requerimientos/ConfiguracionLDAP-Bases/CL12.png Graphic file (type png)
+<use Requerimientos/ConfiguracionLDAP-Bases/CL12.png>
+Package pdftex.def Info: Requerimientos/ConfiguracionLDAP-Bases/CL12.png  used on input line 127.
+(pdftex.def)             Requested size: 344.005pt x 138.23032pt.
+<Requerimientos/ConfiguracionLDAP-Bases/CL13.png, id=533, 382.42876pt x 160.80075pt>
+File: Requerimientos/ConfiguracionLDAP-Bases/CL13.png Graphic file (type png)
+<use Requerimientos/ConfiguracionLDAP-Bases/CL13.png>
+Package pdftex.def Info: Requerimientos/ConfiguracionLDAP-Bases/CL13.png  used on input line 147.
+(pdftex.def)             Requested size: 344.005pt x 144.65062pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 150.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [32 <./Requerimientos/ConfiguracionLDAP-Bases/CL12.png>]
+<Requerimientos/ConfiguracionLDAP-Bases/CL14.png, id=545, 837.1275pt x 213.79875pt>
+File: Requerimientos/ConfiguracionLDAP-Bases/CL14.png Graphic file (type png)
+<use Requerimientos/ConfiguracionLDAP-Bases/CL14.png>
+Package pdftex.def Info: Requerimientos/ConfiguracionLDAP-Bases/CL14.png  used on input line 156.
+(pdftex.def)             Requested size: 193.50076pt x 49.41734pt.
+<Requerimientos/ConfiguracionLDAP-Bases/CL15.png, id=546, 261.22594pt x 120.45pt>
+File: Requerimientos/ConfiguracionLDAP-Bases/CL15.png Graphic file (type png)
+<use Requerimientos/ConfiguracionLDAP-Bases/CL15.png>
+Package pdftex.def Info: Requerimientos/ConfiguracionLDAP-Bases/CL15.png  used on input line 160.
+(pdftex.def)             Requested size: 193.50076pt x 89.22348pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 181.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [33 <./Requerimientos/ConfiguracionLDAP-Bases/CL13.png> <./Requerimientos/ConfiguracionLDAP-Bases/CL14.png> <./Requerimientos/ConfiguracionLDAP-Bases/CL15.png>]
+<Requerimientos/ConfiguracionLDAP-Bases/CL16.png, id=563, 325.96782pt x 138.5175pt>
+File: Requerimientos/ConfiguracionLDAP-Bases/CL16.png Graphic file (type png)
+<use Requerimientos/ConfiguracionLDAP-Bases/CL16.png>
+Package pdftex.def Info: Requerimientos/ConfiguracionLDAP-Bases/CL16.png  used on input line 187.
+(pdftex.def)             Requested size: 344.005pt x 146.19376pt.
+<Requerimientos/ConfiguracionLDAP-Bases/CL17.png, id=564, 1099.10625pt x 283.0575pt>
+File: Requerimientos/ConfiguracionLDAP-Bases/CL17.png Graphic file (type png)
+<use Requerimientos/ConfiguracionLDAP-Bases/CL17.png>
+Package pdftex.def Info: Requerimientos/ConfiguracionLDAP-Bases/CL17.png  used on input line 194.
+(pdftex.def)             Requested size: 344.005pt x 88.59344pt.
+<Requerimientos/ConfiguracionLDAP-Bases/CL18.png, id=565, 536.0025pt x 26.34843pt>
+File: Requerimientos/ConfiguracionLDAP-Bases/CL18.png Graphic file (type png)
+<use Requerimientos/ConfiguracionLDAP-Bases/CL18.png>
+Package pdftex.def Info: Requerimientos/ConfiguracionLDAP-Bases/CL18.png  used on input line 201.
+(pdftex.def)             Requested size: 344.005pt x 16.91037pt.
+<Requerimientos/ConfiguracionLDAP-Bases/CL19.png, id=566, 1096.095pt x 258.9675pt>
+File: Requerimientos/ConfiguracionLDAP-Bases/CL19.png Graphic file (type png)
+<use Requerimientos/ConfiguracionLDAP-Bases/CL19.png>
+Package pdftex.def Info: Requerimientos/ConfiguracionLDAP-Bases/CL19.png  used on input line 208.
+(pdftex.def)             Requested size: 344.005pt x 81.27487pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 210.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [34 <./Requerimientos/ConfiguracionLDAP-Bases/CL16.png> <./Requerimientos/ConfiguracionLDAP-Bases/CL17.png> <./Requerimientos/ConfiguracionLDAP-Bases/CL18.png>]
+<Requerimientos/ConfiguracionLDAP-Bases/CL20.png, id=579, 641.39626pt x 246.1697pt>
+File: Requerimientos/ConfiguracionLDAP-Bases/CL20.png Graphic file (type png)
+<use Requerimientos/ConfiguracionLDAP-Bases/CL20.png>
+Package pdftex.def Info: Requerimientos/ConfiguracionLDAP-Bases/CL20.png  used on input line 235.
+(pdftex.def)             Requested size: 344.005pt x 132.0319pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 238.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [35 <./Requerimientos/ConfiguracionLDAP-Bases/CL19.png>]) (ModeloDatos/ModeloDatos.tex
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 23.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [36 <./Requerimientos/ConfiguracionLDAP-Bases/CL20.png>]
+<ModeloDatos/ImagenesModelosDatos/CuentasContablesNuevo.png, id=605, 5116.11375pt x 2759.30875pt>
+File: ModeloDatos/ImagenesModelosDatos/CuentasContablesNuevo.png Graphic file (type png)
+<use ModeloDatos/ImagenesModelosDatos/CuentasContablesNuevo.png>
+Package pdftex.def Info: ModeloDatos/ImagenesModelosDatos/CuentasContablesNuevo.png  used on input line 52.
+(pdftex.def)             Requested size: 344.005pt x 185.50848pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 68.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [37 <./ModeloDatos/ImagenesModelosDatos/CuentasContablesNuevo.png>]
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 114.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [38]
+<ModeloDatos/ImagenesModelosDatos/CustomizedAdministration.png, id=631, 3801.20125pt x 2462.19875pt>
+File: ModeloDatos/ImagenesModelosDatos/CustomizedAdministration.png Graphic file (type png)
+<use ModeloDatos/ImagenesModelosDatos/CustomizedAdministration.png>
+Package pdftex.def Info: ModeloDatos/ImagenesModelosDatos/CustomizedAdministration.png  used on input line 119.
+(pdftex.def)             Requested size: 344.005pt x 222.79057pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 145.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [39 <./ModeloDatos/ImagenesModelosDatos/CustomizedAdministration.png>]
+<ModeloDatos/ImagenesModelosDatos/CatalogosMaestros(2).png, id=641, 11508.9975pt x 8279.93375pt>
+File: ModeloDatos/ImagenesModelosDatos/CatalogosMaestros(2).png Graphic file (type png)
+<use ModeloDatos/ImagenesModelosDatos/CatalogosMaestros(2).png>
+Package pdftex.def Info: ModeloDatos/ImagenesModelosDatos/CatalogosMaestros(2).png  used on input line 177.
+(pdftex.def)             Requested size: 344.005pt x 247.37656pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 180.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [40]
+<ModeloDatos/ImagenesModelosDatos/TablasHistorico.png, id=661, 4621.265pt x 3378.6225pt>
+File: ModeloDatos/ImagenesModelosDatos/TablasHistorico.png Graphic file (type png)
+<use ModeloDatos/ImagenesModelosDatos/TablasHistorico.png>
+Package pdftex.def Info: ModeloDatos/ImagenesModelosDatos/TablasHistorico.png  used on input line 210.
+(pdftex.def)             Requested size: 344.005pt x 251.47827pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 213.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [41 <./ModeloDatos/ImagenesModelosDatos/CatalogosMaestros(2).png>]
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 243.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [42 <./ModeloDatos/ImagenesModelosDatos/TablasHistorico.png>]
+<ModeloDatos/ImagenesModelosDatos/CECO_MASIVO_T.png, id=687, 2125.9425pt x 1293.83376pt>
+File: ModeloDatos/ImagenesModelosDatos/CECO_MASIVO_T.png Graphic file (type png)
+<use ModeloDatos/ImagenesModelosDatos/CECO_MASIVO_T.png>
+Package pdftex.def Info: ModeloDatos/ImagenesModelosDatos/CECO_MASIVO_T.png  used on input line 247.
+(pdftex.def)             Requested size: 344.005pt x 209.34721pt.
+<ModeloDatos/ImagenesModelosDatos/DMD01.png, id=688, 669.702pt x 202.356pt>
+File: ModeloDatos/ImagenesModelosDatos/DMD01.png Graphic file (type png)
+<use ModeloDatos/ImagenesModelosDatos/DMD01.png>
+Package pdftex.def Info: ModeloDatos/ImagenesModelosDatos/DMD01.png  used on input line 264.
+(pdftex.def)             Requested size: 344.005pt x 103.94432pt.
+<ModeloDatos/ImagenesModelosDatos/DMD02.png, id=689, 444.789pt x 217.467pt>
+File: ModeloDatos/ImagenesModelosDatos/DMD02.png Graphic file (type png)
+<use ModeloDatos/ImagenesModelosDatos/DMD02.png>
+Package pdftex.def Info: ModeloDatos/ImagenesModelosDatos/DMD02.png  used on input line 272.
+(pdftex.def)             Requested size: 344.005pt x 168.19337pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 274.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [43 <./ModeloDatos/ImagenesModelosDatos/CECO_MASIVO_T.png> <./ModeloDatos/ImagenesModelosDatos/DMD01.png>]
+<ModeloDatos/ImagenesModelosDatos/DMD03.png, id=700, 665.48625pt x 320.397pt>
+File: ModeloDatos/ImagenesModelosDatos/DMD03.png Graphic file (type png)
+<use ModeloDatos/ImagenesModelosDatos/DMD03.png>
+Package pdftex.def Info: ModeloDatos/ImagenesModelosDatos/DMD03.png  used on input line 280.
+(pdftex.def)             Requested size: 344.005pt x 165.61984pt.
+) (EspacioReglasPerspectiva/EspacioDatos.tex
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 8.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [44 <./ModeloDatos/ImagenesModelosDatos/DMD02.png> <./ModeloDatos/ImagenesModelosDatos/DMD03.png>]
+<EspacioReglasPerspectiva/ImgPerspectiva/PD01.png, id=709, 638.385pt x 166.82326pt>
+File: EspacioReglasPerspectiva/ImgPerspectiva/PD01.png Graphic file (type png)
+<use EspacioReglasPerspectiva/ImgPerspectiva/PD01.png>
+Package pdftex.def Info: EspacioReglasPerspectiva/ImgPerspectiva/PD01.png  used on input line 53.
+(pdftex.def)             Requested size: 344.005pt x 89.89484pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 56.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [45]
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 82.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [46 <./EspacioReglasPerspectiva/ImgPerspectiva/PD01.png>]
+<EspacioReglasPerspectiva/ImgPerspectiva/PD02.png, id=728, 433.62pt x 107.4195pt>
+File: EspacioReglasPerspectiva/ImgPerspectiva/PD02.png Graphic file (type png)
+<use EspacioReglasPerspectiva/ImgPerspectiva/PD02.png>
+Package pdftex.def Info: EspacioReglasPerspectiva/ImgPerspectiva/PD02.png  used on input line 116.
+(pdftex.def)             Requested size: 344.005pt x 85.22433pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 123.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [47 <./EspacioReglasPerspectiva/ImgPerspectiva/PD02.png>]
+<EspacioReglasPerspectiva/ImgPerspectiva/PD03.png, id=739, 504.08325pt x 145.7445pt>
+File: EspacioReglasPerspectiva/ImgPerspectiva/PD03.png Graphic file (type png)
+<use EspacioReglasPerspectiva/ImgPerspectiva/PD03.png>
+Package pdftex.def Info: EspacioReglasPerspectiva/ImgPerspectiva/PD03.png  used on input line 129.
+(pdftex.def)             Requested size: 344.005pt x 99.46521pt.
+) (WorkflowsDashboard/WorkflowsDashboard.tex (WorkflowsDashboard/Workflow.tex
+<WorkflowsDashboard/ImgWF/WF01.png, id=740, 378.41376pt x 92.345pt>
+File: WorkflowsDashboard/ImgWF/WF01.png Graphic file (type png)
+<use WorkflowsDashboard/ImgWF/WF01.png>
+Package pdftex.def Info: WorkflowsDashboard/ImgWF/WF01.png  used on input line 10.
+(pdftex.def)             Requested size: 344.005pt x 83.94951pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 20.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [48 <./EspacioReglasPerspectiva/ImgPerspectiva/PD03.png> <./WorkflowsDashboard/ImgWF/WF01.png>]
+<WorkflowsDashboard/ImgWF/WF02.png, id=749, 497.4585pt x 123.46124pt>
+File: WorkflowsDashboard/ImgWF/WF02.png Graphic file (type png)
+<use WorkflowsDashboard/ImgWF/WF02.png>
+Package pdftex.def Info: WorkflowsDashboard/ImgWF/WF02.png  used on input line 26.
+(pdftex.def)             Requested size: 344.005pt x 85.3786pt.
+<WorkflowsDashboard/ImgWF/WF03.png, id=750, 690.78075pt x 115.632pt>
+File: WorkflowsDashboard/ImgWF/WF03.png Graphic file (type png)
+<use WorkflowsDashboard/ImgWF/WF03.png>
+Package pdftex.def Info: WorkflowsDashboard/ImgWF/WF03.png  used on input line 36.
+(pdftex.def)             Requested size: 344.005pt x 57.58647pt.
+
+Overfull \hbox (83.57613pt too wide) in paragraph at lines 42--55
+ [][] 
+ []
+
+<WorkflowsDashboard/ImgWF/WF04.png, id=751, 657.05475pt x 145.14224pt>
+File: WorkflowsDashboard/ImgWF/WF04.png Graphic file (type png)
+<use WorkflowsDashboard/ImgWF/WF04.png>
+Package pdftex.def Info: WorkflowsDashboard/ImgWF/WF04.png  used on input line 63.
+(pdftex.def)             Requested size: 344.005pt x 75.99042pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 66.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+[49 <./WorkflowsDashboard/ImgWF/WF02.png> <./WorkflowsDashboard/ImgWF/WF03.png>]
+Overfull \hbox (47.72377pt too wide) in paragraph at lines 69--82
+ [][] 
+ []
+
+<WorkflowsDashboard/ImgWF/WF05.png, id=761, 2707.86656pt x 1020.81375pt>
+File: WorkflowsDashboard/ImgWF/WF05.png Graphic file (type png)
+<use WorkflowsDashboard/ImgWF/WF05.png>
+Package pdftex.def Info: WorkflowsDashboard/ImgWF/WF05.png  used on input line 90.
+(pdftex.def)             Requested size: 344.005pt x 129.67305pt.
+<WorkflowsDashboard/ImgWF/WF06.png, id=762, 4589.89781pt x 953.06062pt>
+File: WorkflowsDashboard/ImgWF/WF06.png Graphic file (type png)
+<use WorkflowsDashboard/ImgWF/WF06.png>
+Package pdftex.def Info: WorkflowsDashboard/ImgWF/WF06.png  used on input line 100.
+(pdftex.def)             Requested size: 344.005pt x 71.41829pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 103.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+[50 <./WorkflowsDashboard/ImgWF/WF04.png> <./WorkflowsDashboard/ImgWF/WF05.png>]
+<WorkflowsDashboard/ImgWF/WF07.png, id=771, 5474.4525pt x 1005.00468pt>
+File: WorkflowsDashboard/ImgWF/WF07.png Graphic file (type png)
+<use WorkflowsDashboard/ImgWF/WF07.png>
+Package pdftex.def Info: WorkflowsDashboard/ImgWF/WF07.png  used on input line 110.
+(pdftex.def)             Requested size: 344.005pt x 63.15001pt.
+<WorkflowsDashboard/ImgWF/WF08.png, id=772, 4721.64pt x 960.58875pt>
+File: WorkflowsDashboard/ImgWF/WF08.png Graphic file (type png)
+<use WorkflowsDashboard/ImgWF/WF08.png>
+Package pdftex.def Info: WorkflowsDashboard/ImgWF/WF08.png  used on input line 120.
+(pdftex.def)             Requested size: 344.005pt x 69.97435pt.
+<WorkflowsDashboard/ImgWF/WF09.png, id=773, 3287.53218pt x 1020.81375pt>
+File: WorkflowsDashboard/ImgWF/WF09.png Graphic file (type png)
+<use WorkflowsDashboard/ImgWF/WF09.png>
+Package pdftex.def Info: WorkflowsDashboard/ImgWF/WF09.png  used on input line 130.
+(pdftex.def)             Requested size: 344.005pt x 106.80698pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 133.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [51 <./WorkflowsDashboard/ImgWF/WF06.png> <./WorkflowsDashboard/ImgWF/WF07.png> <./WorkflowsDashboard/ImgWF/WF08.png>]
+<WorkflowsDashboard/ImgWF/WF10.png, id=784, 5835.8025pt x 1005.00468pt>
+File: WorkflowsDashboard/ImgWF/WF10.png Graphic file (type png)
+<use WorkflowsDashboard/ImgWF/WF10.png>
+Package pdftex.def Info: WorkflowsDashboard/ImgWF/WF10.png  used on input line 140.
+(pdftex.def)             Requested size: 344.005pt x 59.23955pt.
+<WorkflowsDashboard/ImgWF/WF11.png, id=785, 804.00375pt x 234.8775pt>
+File: WorkflowsDashboard/ImgWF/WF11.png Graphic file (type png)
+<use WorkflowsDashboard/ImgWF/WF11.png>
+Package pdftex.def Info: WorkflowsDashboard/ImgWF/WF11.png  used on input line 150.
+(pdftex.def)             Requested size: 344.005pt x 100.49359pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 157.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [52 <./WorkflowsDashboard/ImgWF/WF09.png> <./WorkflowsDashboard/ImgWF/WF10.png> <./WorkflowsDashboard/ImgWF/WF11.png>]
+<WorkflowsDashboard/ImgWF/WF12.png, id=796, 584.78474pt x 224.63925pt>
+File: WorkflowsDashboard/ImgWF/WF12.png Graphic file (type png)
+<use WorkflowsDashboard/ImgWF/WF12.png>
+Package pdftex.def Info: WorkflowsDashboard/ImgWF/WF12.png  used on input line 160.
+(pdftex.def)             Requested size: 344.005pt x 132.14523pt.
+<WorkflowsDashboard/ImgWF/WF13.png, id=797, 444.132pt x 103.806pt>
+File: WorkflowsDashboard/ImgWF/WF13.png Graphic file (type png)
+<use WorkflowsDashboard/ImgWF/WF13.png>
+Package pdftex.def Info: WorkflowsDashboard/ImgWF/WF13.png  used on input line 170.
+(pdftex.def)             Requested size: 344.005pt x 80.40445pt.
+<WorkflowsDashboard/ImgWFMasivo/WFM01.png, id=798, 952.30782pt x 314.67563pt>
+File: WorkflowsDashboard/ImgWFMasivo/WFM01.png Graphic file (type png)
+<use WorkflowsDashboard/ImgWFMasivo/WFM01.png>
+Package pdftex.def Info: WorkflowsDashboard/ImgWFMasivo/WFM01.png  used on input line 182.
+(pdftex.def)             Requested size: 344.005pt x 113.67206pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 185.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [53 <./WorkflowsDashboard/ImgWF/WF12.png> <./WorkflowsDashboard/ImgWF/WF13.png>]
+<WorkflowsDashboard/ImgWFMasivo/WFM02.png, id=807, 5065.92625pt x 787.94376pt>
+File: WorkflowsDashboard/ImgWFMasivo/WFM02.png Graphic file (type png)
+<use WorkflowsDashboard/ImgWFMasivo/WFM02.png>
+Package pdftex.def Info: WorkflowsDashboard/ImgWFMasivo/WFM02.png  used on input line 192.
+(pdftex.def)             Requested size: 344.005pt x 53.50252pt.
+<WorkflowsDashboard/ImgWFMasivo/CreacionMasivaPUC.png, id=808, 4960.5325pt x 1361.085pt>
+File: WorkflowsDashboard/ImgWFMasivo/CreacionMasivaPUC.png Graphic file (type png)
+<use WorkflowsDashboard/ImgWFMasivo/CreacionMasivaPUC.png>
+Package pdftex.def Info: WorkflowsDashboard/ImgWFMasivo/CreacionMasivaPUC.png  used on input line 203.
+(pdftex.def)             Requested size: 344.005pt x 94.37187pt.
+<WorkflowsDashboard/ImgWFMasivo/ModificacionMasivaPUC.png, id=809, 11237.985pt x 1340.00626pt>
 File: WorkflowsDashboard/ImgWFMasivo/ModificacionMasivaPUC.png Graphic file (type png)
 <use WorkflowsDashboard/ImgWFMasivo/ModificacionMasivaPUC.png>
 Package pdftex.def Info: WorkflowsDashboard/ImgWFMasivo/ModificacionMasivaPUC.png  used on input line 214.
 (pdftex.def)             Requested size: 344.005pt x 41.01631pt.
-<WorkflowsDashboard/ImgWFMasivo/AmpModMasivo.png, id=130, 8819.95125pt x 1279.78125pt>
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 217.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [54 <./WorkflowsDashboard/ImgWFMasivo/WFM01.png> <./WorkflowsDashboard/ImgWFMasivo/WFM02.png> <./WorkflowsDashboard/ImgWFMasivo/CreacionMasivaPUC.png>]
+<WorkflowsDashboard/ImgWFMasivo/AmpModMasivo.png, id=820, 8819.95125pt x 1279.78125pt>
 File: WorkflowsDashboard/ImgWFMasivo/AmpModMasivo.png Graphic file (type png)
 <use WorkflowsDashboard/ImgWFMasivo/AmpModMasivo.png>
 Package pdftex.def Info: WorkflowsDashboard/ImgWFMasivo/AmpModMasivo.png  used on input line 224.
 (pdftex.def)             Requested size: 344.005pt x 49.91321pt.
-<WorkflowsDashboard/ImgWFMasivo/CuCoMasivoAsignacionInicial.png, id=131, 1432.35126pt x 647.41875pt>
+<WorkflowsDashboard/ImgWFMasivo/CuCoMasivoAsignacionInicial.png, id=821, 1432.35126pt x 647.41875pt>
 File: WorkflowsDashboard/ImgWFMasivo/CuCoMasivoAsignacionInicial.png Graphic file (type png)
 <use WorkflowsDashboard/ImgWFMasivo/CuCoMasivoAsignacionInicial.png>
 Package pdftex.def Info: WorkflowsDashboard/ImgWFMasivo/CuCoMasivoAsignacionInicial.png  used on input line 237.
 (pdftex.def)             Requested size: 344.005pt x 155.48245pt.
-File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
-<use ImagenesFormato/fondo.jpg>
-Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 240.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
- [10 <./WorkflowsDashboard/ImgWFMasivo/CreacionMasivaPUC.png> <./WorkflowsDashboard/ImgWFMasivo/ModificacionMasivaPUC.png> <./WorkflowsDashboard/ImgWFMasivo/AmpModMasivo.png>]
-<WorkflowsDashboard/ImgWFMasivo/CuCoMasivoMailTable.png, id=142, 2265.46375pt x 353.32pt>
+<WorkflowsDashboard/ImgWFMasivo/CuCoMasivoMailTable.png, id=822, 2265.46375pt x 353.32pt>
 File: WorkflowsDashboard/ImgWFMasivo/CuCoMasivoMailTable.png Graphic file (type png)
 <use WorkflowsDashboard/ImgWFMasivo/CuCoMasivoMailTable.png>
 Package pdftex.def Info: WorkflowsDashboard/ImgWFMasivo/CuCoMasivoMailTable.png  used on input line 248.
 (pdftex.def)             Requested size: 344.005pt x 53.64804pt.
-<WorkflowsDashboard/ImgWFMasivo/CuCoMasivoValidacion.png, id=143, 1131.22626pt x 215.80624pt>
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 251.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [55 <./WorkflowsDashboard/ImgWFMasivo/ModificacionMasivaPUC.png> <./WorkflowsDashboard/ImgWFMasivo/AmpModMasivo.png> <./WorkflowsDashboard/ImgWFMasivo/CuCoMasivoAsignacionInicial.png>]
+<WorkflowsDashboard/ImgWFMasivo/CuCoMasivoValidacion.png, id=834, 1131.22626pt x 215.80624pt>
 File: WorkflowsDashboard/ImgWFMasivo/CuCoMasivoValidacion.png Graphic file (type png)
 <use WorkflowsDashboard/ImgWFMasivo/CuCoMasivoValidacion.png>
 Package pdftex.def Info: WorkflowsDashboard/ImgWFMasivo/CuCoMasivoValidacion.png  used on input line 258.
 (pdftex.def)             Requested size: 344.005pt x 65.62486pt.
-<WorkflowsDashboard/ImgWFMasivo/CuCoValidacionSolicitante.png, id=144, 3700.82625pt x 888.31876pt>
+<WorkflowsDashboard/ImgWFMasivo/CuCoValidacionSolicitante.png, id=835, 3700.82625pt x 888.31876pt>
 File: WorkflowsDashboard/ImgWFMasivo/CuCoValidacionSolicitante.png Graphic file (type png)
 <use WorkflowsDashboard/ImgWFMasivo/CuCoValidacionSolicitante.png>
 Package pdftex.def Info: WorkflowsDashboard/ImgWFMasivo/CuCoValidacionSolicitante.png  used on input line 268.
 (pdftex.def)             Requested size: 344.005pt x 82.56128pt.
-File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
-<use ImagenesFormato/fondo.jpg>
-Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 270.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
- [11 <./WorkflowsDashboard/ImgWFMasivo/CuCoMasivoAsignacionInicial.png> <./WorkflowsDashboard/ImgWFMasivo/CuCoMasivoMailTable.png> <./WorkflowsDashboard/ImgWFMasivo/CuCoMasivoValidacion.png>]
-<WorkflowsDashboard/ImgWFMasivo/CuCoEnvioSAPUnidades.png, id=155, 4513.86375pt x 587.19376pt>
+<WorkflowsDashboard/ImgWFMasivo/CuCoEnvioSAPUnidades.png, id=836, 4513.86375pt x 587.19376pt>
 File: WorkflowsDashboard/ImgWFMasivo/CuCoEnvioSAPUnidades.png Graphic file (type png)
 <use WorkflowsDashboard/ImgWFMasivo/CuCoEnvioSAPUnidades.png>
 Package pdftex.def Info: WorkflowsDashboard/ImgWFMasivo/CuCoEnvioSAPUnidades.png  used on input line 279.
 (pdftex.def)             Requested size: 344.005pt x 44.74545pt.
-) (WorkflowsDashboard/Dashboard.tex
-<WorkflowsDashboard/ImgDashboard/DB01.png, id=156, 1235.36531pt x 507.39563pt>
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 282.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [56 <./WorkflowsDashboard/ImgWFMasivo/CuCoMasivoMailTable.png> <./WorkflowsDashboard/ImgWFMasivo/CuCoMasivoValidacion.png> <./WorkflowsDashboard/ImgWFMasivo/CuCoValidacionSolicitante.png>]) (WorkflowsDashboard/Dashboard.tex
+<WorkflowsDashboard/ImgDashboard/DB01.png, id=847, 1235.36531pt x 507.39563pt>
 File: WorkflowsDashboard/ImgDashboard/DB01.png Graphic file (type png)
 <use WorkflowsDashboard/ImgDashboard/DB01.png>
 Package pdftex.def Info: WorkflowsDashboard/ImgDashboard/DB01.png  used on input line 11.
 (pdftex.def)             Requested size: 344.005pt x 141.28784pt.
-File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
-<use ImagenesFormato/fondo.jpg>
-Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 14.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
- [12 <./WorkflowsDashboard/ImgWFMasivo/CuCoValidacionSolicitante.png> <./WorkflowsDashboard/ImgWFMasivo/CuCoEnvioSAPUnidades.png>]
-<WorkflowsDashboard/ImgDashboard/DB02.png, id=169, 1239.88219pt x 515.67656pt>
+<WorkflowsDashboard/ImgDashboard/DB02.png, id=848, 1239.88219pt x 515.67656pt>
 File: WorkflowsDashboard/ImgDashboard/DB02.png Graphic file (type png)
 <use WorkflowsDashboard/ImgDashboard/DB02.png>
 Package pdftex.def Info: WorkflowsDashboard/ImgDashboard/DB02.png  used on input line 22.
 (pdftex.def)             Requested size: 344.005pt x 143.07439pt.
-<WorkflowsDashboard/ImgDashboard/DB03.png, id=170, 1251.17438pt x 508.14844pt>
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 25.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [57 <./WorkflowsDashboard/ImgWFMasivo/CuCoEnvioSAPUnidades.png> <./WorkflowsDashboard/ImgDashboard/DB01.png>]
+<WorkflowsDashboard/ImgDashboard/DB03.png, id=864, 1251.17438pt x 508.14844pt>
 File: WorkflowsDashboard/ImgDashboard/DB03.png Graphic file (type png)
 <use WorkflowsDashboard/ImgDashboard/DB03.png>
 Package pdftex.def Info: WorkflowsDashboard/ImgDashboard/DB03.png  used on input line 33.
 (pdftex.def)             Requested size: 344.005pt x 139.71411pt.
-File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
-<use ImagenesFormato/fondo.jpg>
-Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 36.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
- [13 <./WorkflowsDashboard/ImgDashboard/DB01.png> <./WorkflowsDashboard/ImgDashboard/DB02.png>]
-<WorkflowsDashboard/ImgDashboard/DB04.png, id=188, 1214.28656pt x 656.4525pt>
+<WorkflowsDashboard/ImgDashboard/DB04.png, id=865, 1214.28656pt x 656.4525pt>
 File: WorkflowsDashboard/ImgDashboard/DB04.png Graphic file (type png)
 <use WorkflowsDashboard/ImgDashboard/DB04.png>
 Package pdftex.def Info: WorkflowsDashboard/ImgDashboard/DB04.png  used on input line 41.
 (pdftex.def)             Requested size: 344.005pt x 185.96904pt.
-)) (RolesUsuario/RolesUsuarios.tex (RolesUsuario/Roles.tex
-<RolesUsuario/ImgRolesUsuario/RS01.png, id=189, 444.132pt x 90.9945pt>
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 44.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [58 <./WorkflowsDashboard/ImgDashboard/DB02.png> <./WorkflowsDashboard/ImgDashboard/DB03.png>])) (RolesUsuario/RolesUsuarios.tex (RolesUsuario/Roles.tex
+<RolesUsuario/ImgRolesUsuario/RS01.png, id=880, 444.132pt x 90.9945pt>
 File: RolesUsuario/ImgRolesUsuario/RS01.png Graphic file (type png)
 <use RolesUsuario/ImgRolesUsuario/RS01.png>
 Package pdftex.def Info: RolesUsuario/ImgRolesUsuario/RS01.png  used on input line 7.
 (pdftex.def)             Requested size: 344.005pt x 70.48112pt.
-File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
-<use ImagenesFormato/fondo.jpg>
-Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 10.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
- [14 <./WorkflowsDashboard/ImgDashboard/DB03.png> <./WorkflowsDashboard/ImgDashboard/DB04.png>]
-<RolesUsuario/ImgRolesUsuario/RS02.png, id=199, 787.14075pt x 169.8345pt>
+<RolesUsuario/ImgRolesUsuario/RS02.png, id=881, 787.14075pt x 169.8345pt>
 File: RolesUsuario/ImgRolesUsuario/RS02.png Graphic file (type png)
 <use RolesUsuario/ImgRolesUsuario/RS02.png>
 Package pdftex.def Info: RolesUsuario/ImgRolesUsuario/RS02.png  used on input line 15.
 (pdftex.def)             Requested size: 344.005pt x 74.22206pt.
-<RolesUsuario/ImgRolesUsuario/RS03.png, id=200, 422.1225pt x 191.844pt>
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 18.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [59 <./WorkflowsDashboard/ImgDashboard/DB04.png> <./RolesUsuario/ImgRolesUsuario/RS01.png>]
+<RolesUsuario/ImgRolesUsuario/RS03.png, id=890, 422.1225pt x 191.844pt>
 File: RolesUsuario/ImgRolesUsuario/RS03.png Graphic file (type png)
 <use RolesUsuario/ImgRolesUsuario/RS03.png>
 Package pdftex.def Info: RolesUsuario/ImgRolesUsuario/RS03.png  used on input line 23.
 (pdftex.def)             Requested size: 344.005pt x 156.35pt.
 File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
 <use ImagenesFormato/fondo.jpg>
-Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 35.
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 42.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
- [15 <./RolesUsuario/ImgRolesUsuario/RS01.png> <./RolesUsuario/ImgRolesUsuario/RS02.png> <./RolesUsuario/ImgRolesUsuario/RS03.png>]) (RolesUsuario/Usuarios.tex
-<RolesUsuario/ImgRolesUsuario/S01.png, id=211, 626.94225pt x 130.68825pt>
+ [60 <./RolesUsuario/ImgRolesUsuario/RS02.png> <./RolesUsuario/ImgRolesUsuario/RS03.png>]) (RolesUsuario/Usuarios.tex
+<RolesUsuario/ImgRolesUsuario/S01.png, id=899, 626.94225pt x 130.68825pt>
 File: RolesUsuario/ImgRolesUsuario/S01.png Graphic file (type png)
 <use RolesUsuario/ImgRolesUsuario/S01.png>
 Package pdftex.def Info: RolesUsuario/ImgRolesUsuario/S01.png  used on input line 7.
 (pdftex.def)             Requested size: 344.005pt x 71.70924pt.
 File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
 <use ImagenesFormato/fondo.jpg>
-Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 9.
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 10.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
- [16]
-<RolesUsuario/ImgRolesUsuario/S02.png, id=216, 618.51076pt x 133.6995pt>
+ [61]
+<RolesUsuario/ImgRolesUsuario/S02.png, id=905, 618.51076pt x 133.6995pt>
 File: RolesUsuario/ImgRolesUsuario/S02.png Graphic file (type png)
 <use RolesUsuario/ImgRolesUsuario/S02.png>
 Package pdftex.def Info: RolesUsuario/ImgRolesUsuario/S02.png  used on input line 15.
 (pdftex.def)             Requested size: 344.005pt x 74.36118pt.
-))
+<RolesUsuario/ImgRolesUsuario/S03.png, id=906, 421.137pt x 195.786pt>
+File: RolesUsuario/ImgRolesUsuario/S03.png Graphic file (type png)
+<use RolesUsuario/ImgRolesUsuario/S03.png>
+Package pdftex.def Info: RolesUsuario/ImgRolesUsuario/S03.png  used on input line 23.
+(pdftex.def)             Requested size: 344.005pt x 159.93013pt.
+<RolesUsuario/ImgRolesUsuario/S04.png, id=907, 602.85225pt x 284.262pt>
+File: RolesUsuario/ImgRolesUsuario/S04.png Graphic file (type png)
+<use RolesUsuario/ImgRolesUsuario/S04.png>
+Package pdftex.def Info: RolesUsuario/ImgRolesUsuario/S04.png  used on input line 31.
+(pdftex.def)             Requested size: 344.005pt x 162.20885pt.
 File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
 <use ImagenesFormato/fondo.jpg>
-Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 112.
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 33.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
- [17 <./RolesUsuario/ImgRolesUsuario/S01.png> <./RolesUsuario/ImgRolesUsuario/S02.png>] (c:\Users\Alldatum Business\Desktop\LaTex\CMI\CuCo\MemoriaTecnica\build\main.aux
-LaTeX Info: Redefining \. on input line 12.
-LaTeX Info: Redefining \% on input line 12.
+ [62 <./RolesUsuario/ImgRolesUsuario/S01.png> <./RolesUsuario/ImgRolesUsuario/S02.png> <./RolesUsuario/ImgRolesUsuario/S03.png>]
+<RolesUsuario/ImgRolesUsuario/S05.png, id=918, 594.42075pt x 278.2395pt>
+File: RolesUsuario/ImgRolesUsuario/S05.png Graphic file (type png)
+<use RolesUsuario/ImgRolesUsuario/S05.png>
+Package pdftex.def Info: RolesUsuario/ImgRolesUsuario/S05.png  used on input line 39.
+(pdftex.def)             Requested size: 344.005pt x 161.02663pt.
+<RolesUsuario/ImgRolesUsuario/S06.png, id=919, 1002.74625pt x 353.82187pt>
+File: RolesUsuario/ImgRolesUsuario/S06.png Graphic file (type png)
+<use RolesUsuario/ImgRolesUsuario/S06.png>
+Package pdftex.def Info: RolesUsuario/ImgRolesUsuario/S06.png  used on input line 47.
+(pdftex.def)             Requested size: 344.005pt x 121.38301pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 50.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [63 <./RolesUsuario/ImgRolesUsuario/S04.png> <./RolesUsuario/ImgRolesUsuario/S05.png>]
+<RolesUsuario/ImgRolesUsuario/S07.png, id=928, 510.10574pt x 157.7895pt>
+File: RolesUsuario/ImgRolesUsuario/S07.png Graphic file (type png)
+<use RolesUsuario/ImgRolesUsuario/S07.png>
+Package pdftex.def Info: RolesUsuario/ImgRolesUsuario/S07.png  used on input line 57.
+(pdftex.def)             Requested size: 344.005pt x 106.41182pt.
+<RolesUsuario/ImgRolesUsuario/S08.png, id=929, 1053.1847pt x 261.22594pt>
+File: RolesUsuario/ImgRolesUsuario/S08.png Graphic file (type png)
+<use RolesUsuario/ImgRolesUsuario/S08.png>
+Package pdftex.def Info: RolesUsuario/ImgRolesUsuario/S08.png  used on input line 65.
+(pdftex.def)             Requested size: 344.005pt x 85.32391pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 72.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [64 <./RolesUsuario/ImgRolesUsuario/S06.png> <./RolesUsuario/ImgRolesUsuario/S07.png> <./RolesUsuario/ImgRolesUsuario/S08.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 80--97
+
+ []
+
+
+Overfull \hbox (80.72554pt too wide) in alignment at lines 75--181
+ [] [] [] 
+ []
+
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 181.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+[65]
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 181.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [66]) (RolesUsuario/PermisosRolesUsuarios.tex
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 2.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [67]
+<RolesUsuario/ImgRolesUsuario/PRS01.png, id=954, 533.5935pt x 251.7405pt>
+File: RolesUsuario/ImgRolesUsuario/PRS01.png Graphic file (type png)
+<use RolesUsuario/ImgRolesUsuario/PRS01.png>
+Package pdftex.def Info: RolesUsuario/ImgRolesUsuario/PRS01.png  used on input line 9.
+(pdftex.def)             Requested size: 344.005pt x 162.30414pt.
+<RolesUsuario/ImgRolesUsuario/PRS02.png, id=955, 519.1395pt x 215.6055pt>
+File: RolesUsuario/ImgRolesUsuario/PRS02.png Graphic file (type png)
+<use RolesUsuario/ImgRolesUsuario/PRS02.png>
+Package pdftex.def Info: RolesUsuario/ImgRolesUsuario/PRS02.png  used on input line 23.
+(pdftex.def)             Requested size: 344.005pt x 142.8725pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 26.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [68 <./RolesUsuario/ImgRolesUsuario/PRS01.png>]
+<RolesUsuario/ImgRolesUsuario/PRS03.png, id=962, 525.162pt x 184.2885pt>
+File: RolesUsuario/ImgRolesUsuario/PRS03.png Graphic file (type png)
+<use RolesUsuario/ImgRolesUsuario/PRS03.png>
+Package pdftex.def Info: RolesUsuario/ImgRolesUsuario/PRS03.png  used on input line 35.
+(pdftex.def)             Requested size: 344.005pt x 120.71687pt.
+<RolesUsuario/ImgRolesUsuario/PRS04.png, id=963, 513.117pt x 181.27725pt>
+File: RolesUsuario/ImgRolesUsuario/PRS04.png Graphic file (type png)
+<use RolesUsuario/ImgRolesUsuario/PRS04.png>
+Package pdftex.def Info: RolesUsuario/ImgRolesUsuario/PRS04.png  used on input line 43.
+(pdftex.def)             Requested size: 344.005pt x 121.53534pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 46.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [69 <./RolesUsuario/ImgRolesUsuario/PRS02.png> <./RolesUsuario/ImgRolesUsuario/PRS03.png>]
+<RolesUsuario/ImgRolesUsuario/PRS05.png, id=972, 504.08325pt x 247.52475pt>
+File: RolesUsuario/ImgRolesUsuario/PRS05.png Graphic file (type png)
+<use RolesUsuario/ImgRolesUsuario/PRS05.png>
+Package pdftex.def Info: RolesUsuario/ImgRolesUsuario/PRS05.png  used on input line 54.
+(pdftex.def)             Requested size: 344.005pt x 168.92645pt.
+<RolesUsuario/ImgRolesUsuario/PRS06.png, id=973, 477.58424pt x 155.3805pt>
+File: RolesUsuario/ImgRolesUsuario/PRS06.png Graphic file (type png)
+<use RolesUsuario/ImgRolesUsuario/PRS06.png>
+Package pdftex.def Info: RolesUsuario/ImgRolesUsuario/PRS06.png  used on input line 68.
+(pdftex.def)             Requested size: 344.005pt x 111.92365pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 71.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [70 <./RolesUsuario/ImgRolesUsuario/PRS04.png> <./RolesUsuario/ImgRolesUsuario/PRS05.png>])) (DocumentacionEBX/DocumentacionEBX.tex
+<DocumentacionEBX/ImgDocumentacion/DE01.png, id=982, 516.12825pt x 133.09724pt>
+File: DocumentacionEBX/ImgDocumentacion/DE01.png Graphic file (type png)
+<use DocumentacionEBX/ImgDocumentacion/DE01.png>
+Package pdftex.def Info: DocumentacionEBX/ImgDocumentacion/DE01.png  used on input line 9.
+(pdftex.def)             Requested size: 344.005pt x 88.7096pt.
+<DocumentacionEBX/ImgDocumentacion/DE02.png, id=983, 286.671pt x 109.6095pt>
+File: DocumentacionEBX/ImgDocumentacion/DE02.png Graphic file (type png)
+<use DocumentacionEBX/ImgDocumentacion/DE02.png>
+Package pdftex.def Info: DocumentacionEBX/ImgDocumentacion/DE02.png  used on input line 17.
+(pdftex.def)             Requested size: 344.005pt x 131.5374pt.
+)
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 117.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [71 <./RolesUsuario/ImgRolesUsuario/PRS06.png> <./DocumentacionEBX/ImgDocumentacion/DE01.png>] (Contraportada.tex
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 9.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [72 <./DocumentacionEBX/ImgDocumentacion/DE02.png>]
+<ImagenesFormato/image3.jpg, id=998, 614.295pt x 794.97pt>
+File: ImagenesFormato/image3.jpg Graphic file (type jpg)
+<use ImagenesFormato/image3.jpg>
+Package pdftex.def Info: ImagenesFormato/image3.jpg  used on input line 18.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+) [73 <./ImagenesFormato/image3.jpg>] (c:\Users\Alldatum Business\Desktop\LaTex\CMI\CuCo\MemoriaTecnica\build\main.aux
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
 )
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-07-20>
  ***********
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.72pt have occurred.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 871454560CC4416FABCB0FC667B3F728;666.
+(rerunfilecheck)             Checksum: A076E2011FA69351F7CC59AD9B7C2048;6466.
  ) 
 Here is how much of TeX's memory you used:
- 24830 strings out of 467501
- 477507 string characters out of 5402682
- 911203 words of memory out of 5000000
- 53614 multiletter control sequences out of 15000+600000
- 632343 words of font info for 46 fonts, out of 8000000 for 9000
+ 26169 strings out of 467501
+ 517895 string characters out of 5402682
+ 922071 words of memory out of 5000000
+ 54595 multiletter control sequences out of 15000+600000
+ 635222 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 92i,13n,94p,1068b,1092s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Alldatum Business\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Alldatum Business\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Alldatum Business\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Alldatum Business\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk>
-Output written on "c:\Users\Alldatum Business\Desktop\LaTex\CMI\CuCo\MemoriaTecnica\build\main.pdf" (17 pages, 3912454 bytes).
+ 92i,13n,94p,1068b,1104s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Alldatum Business\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\Alldatum Business\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\Alldatum Business\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Alldatum Business\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\Alldatum Business\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Alldatum Business\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Alldatum Business\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Alldatum Business\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk><C:/Users/Alldatum Business/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on "c:\Users\Alldatum Business\Desktop\LaTex\CMI\CuCo\MemoriaTecnica\build\main.pdf" (73 pages, 19827709 bytes).
 PDF statistics:
- 431 PDF objects out of 1000 (max. 8388607)
- 69 named destinations out of 1000 (max. 500000)
- 4844 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1444 PDF objects out of 1728 (max. 8388607)
+ 376 named destinations out of 1000 (max. 500000)
+ 8082 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -16,15 +16,36 @@
 % \end{tikzpicture}
 
 
-\begin{tikzpicture}[remember picture,overlay]
-\AddToShipoutPictureBG*{%
-    \AtPageLowerLeft{%
-        \includegraphics[width=\paperwidth,height=\paperheight]{ImagenesFormato/image1.jpg}
-    }%
-}
+% \begin{tikzpicture}[remember picture,overlay]
+% \AddToShipoutPictureBG*{%
+%     \AtPageLowerLeft{%
+%         \includegraphics[width=\paperwidth,height=\paperheight]{ImagenesFormato/image1.jpg}
+%     }%
+% }
 
-\mbox{}
-% Texto sobre la imagen
+% \mbox{}
+% % Texto sobre la imagen
+% \node[
+%     text=white,
+%     font=\fontsize{18}{20}\selectfont\bfseries,
+%     align=center,
+%     text width=10cm
+% ] at (current page.center)
+% {
+%     CuCo - Memoria Técnica
+% };
+
+% \end{tikzpicture}
+
+\begin{tikzpicture}[remember picture,overlay]
+
+\node at (current page.center) {%
+    \includegraphics[
+        width=\paperwidth,
+        height=\paperheight
+    ]{ImagenesFormato/image1.jpg}
+};
+
 \node[
     text=white,
     font=\fontsize{18}{20}\selectfont\bfseries,
@@ -32,9 +53,7 @@
     text width=10cm
 ] at (current page.center)
 {
-    Como en la conversación anterior estabas convirtiendo un documento\\ 
-    de Word a LaTeX, normalmente lo mejor es usar
+    CuCo - Memoria Técnica
 };
 
 \end{tikzpicture}
-

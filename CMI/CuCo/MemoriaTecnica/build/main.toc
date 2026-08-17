@@ -1,7 +1,38 @@
 \babel@toc {spanish}{}\relax 
-\contentsline {section}{\numberline {1}Workflows y Dashboard}{4}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Workflows}{4}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Dashboard}{12}{subsection.1.2}%
-\contentsline {section}{\numberline {2}Roles y Usuarios}{14}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Roles}{14}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Usuarios}{17}{subsection.2.2}%
+\contentsline {section}{\numberline {1}Requisitos técnicos de TIBCO EBX }{6}{section.1}%
+\contentsline {section}{\numberline {2}Requerimientos de arquitectura}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Links de descarga}{7}{subsection.2.1}%
+\contentsline {section}{\numberline {3}Pasos para la descarga de TIBCO EBX}{7}{section.3}%
+\contentsline {section}{\numberline {4}Pasos para la instalación de TIBCO EBX}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Instalación del repositorio de TIBCO EBX }{15}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Encendido}{18}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Apagado }{19}{subsubsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.2}Configuración del certificado}{19}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Pruebas de funcionamiento}{23}{section.5}%
+\contentsline {section}{\numberline {6}Conexión a LDAP}{26}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Consideraciones previas:}{26}{subsection.6.1}%
+\contentsline {section}{\numberline {7}Configuración de conexión a fuente de Datos}{28}{section.7}%
+\contentsline {section}{\numberline {8}Acceso a metadatos técnicos y configuraciones de limpieza}{31}{section.8}%
+\contentsline {section}{\numberline {9}Modelo de Datos}{36}{section.9}%
+\contentsline {subsection}{\numberline {9.1}[CuCo] Cuentas Contables}{36}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}[CuCo] Cuentas Contables – Calidad}{38}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Cuentas Contables Landing}{38}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}[CA] Customized Administration}{38}{subsection.9.4}%
+\contentsline {subsection}{\numberline {9.5}[CA] Catálogos Maestros}{39}{subsection.9.5}%
+\contentsline {subsection}{\numberline {9.6}[CA] Histórico}{41}{subsection.9.6}%
+\contentsline {subsection}{\numberline {9.7}[CA] Admin de Cargas Masivas}{42}{subsection.9.7}%
+\contentsline {subsection}{\numberline {9.8}Diagrama de modelo de datos}{43}{subsection.9.8}%
+\contentsline {section}{\numberline {10}Espacio de datos}{44}{section.10}%
+\contentsline {section}{\numberline {11}Reglas de Calidad}{45}{section.11}%
+\contentsline {section}{\numberline {12}Perspectivas de datos}{46}{section.12}%
+\contentsline {section}{\numberline {13}Workflows y Dashboard}{48}{section.13}%
+\contentsline {subsection}{\numberline {13.1}Workflows}{48}{subsection.13.1}%
+\contentsline {subsection}{\numberline {13.2}Dashboard}{57}{subsection.13.2}%
+\contentsline {section}{\numberline {14}Roles y Usuarios}{59}{section.14}%
+\contentsline {subsection}{\numberline {14.1}Roles}{59}{subsection.14.1}%
+\contentsline {subsection}{\numberline {14.2}Usuarios}{62}{subsection.14.2}%
+\contentsline {section}{\numberline {15}Permisos a roles y/o usuarios}{68}{section.15}%
+\contentsline {subsection}{\numberline {15.1}Modelo de datos}{68}{subsection.15.1}%
+\contentsline {subsection}{\numberline {15.2}Espacio de datos}{69}{subsection.15.2}%
+\contentsline {subsection}{\numberline {15.3}Conjunto de Datos}{70}{subsection.15.3}%
+\contentsline {section}{\numberline {16}Documentación EBX}{71}{section.16}%

@@ -14,9 +14,10 @@
 \usepackage{xcolor}
 \usepackage{hyperref} %% hipervínculos
 \usepackage{textcomp} %% para usar ' 
-
+\usepackage{array}
 %\usepackage{ragged2e} %justificación
 \usepackage[dvipsnames]{xcolor} %color 
+\usepackage{longtable} %% tablas largas
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{0.8em}
 
@@ -72,33 +73,35 @@
 %% --------- FIN --- Redefinir color de secciones y niveles----%%
 
 
-
+\input{Portada.tex}
+\newpage
 %%%----- avisos de confidencialidad -----
 \input{Confidencialidad}
 \input{CMI_TITULO}
 %%-------- índice ------%%
+\newpage
 \renewcommand{\contentsname}{Tabla de Contenido}
 \tableofcontents
 
 \newpage
-%% -------- Requerimientos ------
-% \input{Instalacion/RequerimientosTecnicos}
-% \input{Instalacion/RequerimientosArquitectura}
+% -------- Requerimientos ------
+\input{Instalacion/RequerimientosTecnicos}
+\input{Instalacion/RequerimientosArquitectura}
 
 
-% %%----------- INSTALACIONES%
-% \input{Instalacion/PasosDescargaEBX}
-% \input{Instalacion/PasosInstalacionEBX}
-% \input{Instalacion/ConexionLDAP}
+%%----------- INSTALACIONES%
+\input{Instalacion/PasosDescargaEBX}
+\input{Instalacion/PasosInstalacionEBX}
+\input{Instalacion/ConexionLDAP}
 
 
-% %%----modelos
-% \input{ModeloDatos/ModeloDatos}
+%%----modelos
+\input{ModeloDatos/ModeloDatos}
 
 
-% %% ########## Espacio, Reglas y Perspectivas
+%% ########## Espacio, Reglas y Perspectivas
 
-% \input{EspacioReglasPerspectiva/EspacioDatos.tex}
+\input{EspacioReglasPerspectiva/EspacioDatos.tex}
 
 %% ####### Workflows y Dashboard
 
@@ -109,4 +112,10 @@
 
 \input{RolesUsuario/RolesUsuarios.tex}
 
+%% DOCUMENTACION
+\input{DocumentacionEBX/DocumentacionEBX.tex}
+
+%% ### CONTRAPORTADA
+
+\input{Contraportada.tex}
 \end{document}

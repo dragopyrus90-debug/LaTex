@@ -277,8 +277,6 @@ INPUT .\Portada.tex
 INPUT .\Portada.tex
 INPUT .\Portada.tex
 INPUT Portada.tex
-INPUT C:\Users\Alldatum Business\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
-INPUT C:\Users\Alldatum Business\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT .\ImagenesFormato\image1.jpg
 INPUT .\ImagenesFormato\image1.jpg
 INPUT .\ImagenesFormato\image1.jpg
@@ -287,6 +285,8 @@ OUTPUT c:\Users\Alldatum Business\Desktop\LaTex\Alldatum\PortadaContraportada\bu
 INPUT .\ImagenesFormato\image1.jpg
 INPUT .\ImagenesFormato\image1.jpg
 INPUT .\ImagenesFormato\image1.jpg
+INPUT C:\Users\Alldatum Business\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Users\Alldatum Business\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\Alldatum Business\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT .\Contraportada.tex
 INPUT .\Contraportada.tex

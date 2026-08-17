@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1786488857.65219 "c:/Users/Alldatum Business/Desktop/LaTex/Alldatum/PortadaContraportada/main.tex" "build/main.pdf" "main" 1786488859.05102 0
-  "C:/Users/Alldatum Business/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1786487967 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+["pdflatex"] 1786994752.66521 "c:/Users/Alldatum Business/Desktop/LaTex/Alldatum/PortadaContraportada/main.tex" "build/main.pdf" "main" 1786994754.12017 0
+  "C:/Users/Alldatum Business/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1786987078 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Alldatum Business/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1786486062 13373474 d959c753fd5d60988363f22468adf168 ""
   "C:/Users/Alldatum Business/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Users/Alldatum Business/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr17.tfm" 1136765053 1292 296a67155bdbfc32aa9c636f21e91433 ""
@@ -108,13 +108,13 @@
   "C:/Users/Alldatum Business/AppData/Local/Programs/MiKTeX/tex/latex/tools/afterpage.sty" 1780057721 4085 c9cb83bd5ad000f735d92602d2853e82 ""
   "C:/Users/Alldatum Business/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/Alldatum Business/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "Contraportada.tex" 1786486860 168 94c5eec286a7a946e3801658ea0be18d ""
+  "Contraportada.tex" 1786994750 404 967259e7444b715dd70eed8ee413ace5 ""
   "ImagenesFormato/image1.jpg" 1786487219 2654555 eaa6832c9983d81a78384f5bc7a2dd1e ""
   "ImagenesFormato/image3.jpg" 1786487222 2948818 44110eecd3bed86ab27f9466e1110dc4 ""
-  "Portada.tex" 1786488856 1028 c1e97d4f63a1c9f33c5ac77690a7ec95 ""
-  "build/main.aux" 1786488858 360 1f84470e2ff8596f12b0e02b1d88121f "pdflatex"
-  "c:/Users/Alldatum Business/Desktop/LaTex/Alldatum/PortadaContraportada/main.tex" 1786488102 532 b916e53d5aeae20b9738d3a46539e658 ""
-  "main.tex" 1786488102 532 b916e53d5aeae20b9738d3a46539e658 ""
+  "Portada.tex" 1786994613 1368 f9ba29a19f559991f5727705360de29c ""
+  "build/main.aux" 1786994753 402 d050e9b40b63960927ddae3985f191f3 "pdflatex"
+  "c:/Users/Alldatum Business/Desktop/LaTex/Alldatum/PortadaContraportada/main.tex" 1786994047 524 ae8a98d8f6a5e60e0eb5ba8994eb68d4 ""
+  "main.tex" 1786994047 524 ae8a98d8f6a5e60e0eb5ba8994eb68d4 ""
   (generated)
   "build/main.aux"
   "build/main.log"
