@@ -1,0 +1,1364 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.10.19)  21 OCT 2026 09:47
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./main.tex
+(main.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+(C:\Program Files\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(C:\Program Files\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2026/03/07 v6.0 Page Geometry
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count283
+\Gm@cntv=\count284
+\c@Gm@tempcnt=\count285
+\Gm@bindingoffset=\dimen149
+\Gm@wd@mp=\dimen150
+\Gm@odd@mp=\dimen151
+\Gm@even@mp=\dimen152
+\Gm@layoutwidth=\dimen153
+\Gm@layoutheight=\dimen154
+\Gm@layouthoffset=\dimen155
+\Gm@layoutvoffset=\dimen156
+\Gm@dimlist=\toks18
+
+(C:\Program Files\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen157
+\Gin@req@width=\dimen158
+)
+(C:\Program Files\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2026/05/31 v3.0e eso-pic (RN)
+\ESO@tempdima=\dimen159
+\ESO@tempdimb=\dimen160
+
+(C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+))
+(C:\Program Files\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks19
+\pgfutil@tempdima=\dimen161
+\pgfutil@tempdimb=\dimen162
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box53
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
+))
+Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks20
+\pgfkeys@temptoks=\toks21
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.
+tex
+\pgfkeys@tmptoks=\toks22
+))
+\pgf@x=\dimen163
+\pgf@y=\dimen164
+\pgf@xa=\dimen165
+\pgf@ya=\dimen166
+\pgf@xb=\dimen167
+\pgf@yb=\dimen168
+\pgf@xc=\dimen169
+\pgf@yc=\dimen170
+\pgf@xd=\dimen171
+\pgf@yd=\dimen172
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count286
+\c@pgf@countb=\count287
+\c@pgf@countc=\count288
+\c@pgf@countd=\count289
+\t@pgf@toka=\toks23
+\t@pgf@tokb=\toks24
+\t@pgf@tokc=\toks25
+\pgf@sys@id@count=\count290
+ (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfsyssoftpath@smallbuffer@items=\count291
+\pgfsyssoftpath@bigbuffer@items=\count292
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen173
+\pgfmath@count=\count293
+\pgfmath@box=\box54
+\pgfmath@toks=\toks26
+\pgfmath@stack@operand=\toks27
+\pgfmath@stack@operation=\toks28
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.co
+de.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.
+tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmeti
+cs.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex
+) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count294
+))
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfint.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@picminx=\dimen174
+\pgf@picmaxx=\dimen175
+\pgf@picminy=\dimen176
+\pgf@picmaxy=\dimen177
+\pgf@pathminx=\dimen178
+\pgf@pathmaxx=\dimen179
+\pgf@pathminy=\dimen180
+\pgf@pathmaxy=\dimen181
+\pgf@xx=\dimen182
+\pgf@xy=\dimen183
+\pgf@yx=\dimen184
+\pgf@yy=\dimen185
+\pgf@zx=\dimen186
+\pgf@zy=\dimen187
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.t
+ex
+File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@path@lastx=\dimen188
+\pgf@path@lasty=\dimen189
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@shorten@end@additional=\dimen190
+\pgf@shorten@start@additional=\dimen191
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfpic=\box55
+\pgf@hbox=\box56
+\pgf@layerbox@main=\box57
+\pgf@picture@serial@count=\count295
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.te
+x
+File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgflinewidth=\dimen192
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code
+.tex
+File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@pt@x=\dimen193
+\pgf@pt@y=\dimen194
+\pgf@pt@temp=\dimen195
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.
+tex
+File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowsep=\dimen196
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@max=\dimen197
+\pgf@sys@shading@range@num=\count296
+\pgf@shadingcount=\count297
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfexternal@startupbox=\box58
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.te
+x
+File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfnodeparttextbox=\box59
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@nodesepstart=\dimen198
+\pgf@nodesepend=\dimen199
+)
+(C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
+)) (C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgffor.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex))
+(C:\Program Files\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
+\pgffor@iter=\dimen256
+\pgffor@skip=\dimen257
+\pgffor@stack=\toks29
+\pgffor@toks=\toks30
+))
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.
+tex
+File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@plot@mark@count=\count298
+\pgfplotmarksize=\dimen258
+)
+\tikz@lastx=\dimen259
+\tikz@lasty=\dimen260
+\tikz@lastxsaved=\dimen261
+\tikz@lastysaved=\dimen262
+\tikz@lastmovetox=\dimen263
+\tikz@lastmovetoy=\dimen264
+\tikzleveldistance=\dimen265
+\tikzsiblingdistance=\dimen266
+\tikz@figbox=\box60
+\tikz@figbox@bg=\box61
+\tikz@tempbox=\box62
+\tikz@tempbox@bg=\box63
+\tikztreelevel=\count299
+\tikznumberofchildren=\count300
+\tikznumberofcurrentchild=\count301
+\tikz@fig@count=\count302
+ (C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfmatrixcurrentrow=\count303
+\pgfmatrixcurrentcolumn=\count304
+\pgf@matrix@numberofcolumns=\count305
+)
+\tikz@expandcount=\count306
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))) (C:\Program Files\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count307
+\float@exts=\toks31
+\float@box=\box64
+\@float@everytoks=\toks32
+\@floatcapt=\box65
+)
+(C:\Program Files\MiKTeX\tex/latex/background\background.sty
+Package: background 2014/03/04 v2.1 background material
+
+(C:\Program Files\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks33
+\XKV@tempa@toks=\toks34
+)
+\XKV@depth=\count308
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Program Files\MiKTeX\tex/latex/everypage\everypage.sty
+Package: everypage 2020/10/17 R2.0b Hooks to run on every page
+
+
+Package everypage Warning: Functionality similar to this package has recently
+(everypage)                been implemented in LaTeX. This package is now in
+(everypage)                legacy status.
+(everypage)                Please, don't use it in new documents and packages.
+
+
+Package everypage Warning: You appear to be running a version of LaTeX
+(everypage)                providing the new functionality.
+(everypage)                Doing the best to deliver the original `everypage`
+(everypage)                interface on top of it. Strict equivalence is
+(everypage)                not possible, breakage may occur.
+(everypage)                If truly needed, Use `everypage-1x` to force the
+(everypage)                loading of an older code base.
+
+) (C:\Program Files\MiKTeX\tex/latex/tools\afterpage.sty
+Package: afterpage 2023/07/04 v1.08 After-Page Package (DPC)
+\AP@output=\toks35
+\AP@partial=\box66
+\AP@footins=\box67
+))
+(C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+)
+(C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks36
+\inpenc@posthook=\toks37
+)
+(C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2025/12/11 v25.17 The multilingual framework for LuaLaTeX, pdfLa
+TeX and XeLaTeX
+\babel@savecnt=\count309
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
+ne 2068.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
+ne 2070.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
+e 2072.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
+e 2073.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
+on input line 2074.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
+on input line 2076.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
+on input line 2101.
+\U@D=\dimen267
+\l@unhyphenated=\language79
+
+(C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read3
+\bbl@dirlevel=\count310
+Package babel Info: Configuration files are deprecated, as
+(babel)             they can break document portability.
+(babel)             Reported on input line 4196.
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Program Files\MiKTeX\tex/generic/babel/locale/es\babel-spanish.tex)
+Package babel Info: Importing font and identification data for spanish
+(babel)             from babel-es.ini. Reported on input line 4320.
+
+(C:\Program Files\MiKTeX\tex/latex/babel-spanish\spanish.ldf
+Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+\es@quottoks=\toks38
+\es@quotdepth=\count311
+Package babel Info: Making " an active character on input line 570.
+Package babel Info: Making . an active character on input line 675.
+Package babel Info: Making < an active character on input line 722.
+Package babel Info: Making > an active character on input line 722.
+))
+LaTeX Encoding Info:    Redeclaring text command \guillemotleft (encoding OT1) 
+on input line 11.
+LaTeX Encoding Info:    Redeclaring text command \guillemotright (encoding OT1)
+ on input line 11.
+
+(C:\Program Files\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2026/03/01 v3.2d Micro-typographical refinements (RS)
+
+(C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count312
+)
+\MT@toks=\toks39
+\MT@tempbox=\box68
+\MT@count=\count313
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1084.
+LaTeX Info: Redefining \leftprotrusion on input line 1085.
+\MT@prot@toks=\toks40
+LaTeX Info: Redefining \rightprotrusion on input line 1104.
+LaTeX Info: Redefining \textls on input line 1449.
+\MT@outer@kern=\dimen268
+LaTeX Info: Redefining \microtypecontext on input line 2053.
+LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
+\MT@listname@count=\count314
+
+(C:\Program Files\MiKTeX\tex/latex/microtype\microtype-pdftex.def
+File: microtype-pdftex.def 2026/03/01 v3.2d Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 944.
+LaTeX Info: Redefining \lslig on input line 944.
+\MT@outer@space=\skip51
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(C:\Program Files\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2026/03/01 v3.2d microtype main configuration file (RS)
+)
+LaTeX Info: Redefining \microtypesetup on input line 3065.
+)
+(C:\Program Files\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip52
+\f@nch@offset@elh=\skip53
+\f@nch@offset@erh=\skip54
+\f@nch@offset@olh=\skip55
+\f@nch@offset@orh=\skip56
+\f@nch@offset@elf=\skip57
+\f@nch@offset@erf=\skip58
+\f@nch@offset@olf=\skip59
+\f@nch@offset@orf=\skip60
+\f@nch@height=\skip61
+\f@nch@footalignment=\skip62
+\f@nch@widthL=\skip63
+\f@nch@widthC=\skip64
+\f@nch@widthR=\skip65
+\@temptokenb=\toks41
+)
+(C:\Program Files\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box69
+\beforetitleunit=\skip66
+\aftertitleunit=\skip67
+\ttl@plus=\dimen269
+\ttl@minus=\dimen270
+\ttl@toksa=\toks42
+\titlewidth=\dimen271
+\titlewidthlast=\dimen272
+\titlewidthfirst=\dimen273
+)
+(C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
+
+(C:\Program Files\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Program Files\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Program Files\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(C:\Program Files\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Program Files\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+(C:\Program Files\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
+
+(C:\Program Files\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Program Files\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Program Files\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count315
+)
+(C:\Program Files\MiKTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen274
+\Hy@linkcounter=\count316
+\Hy@pagecounter=\count317
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Program Files\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count318
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4195.
+Package hyperref Info: Link nesting OFF on input line 4200.
+Package hyperref Info: Hyper index ON on input line 4203.
+Package hyperref Info: Plain pages OFF on input line 4210.
+Package hyperref Info: Backreferencing OFF on input line 4215.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4462.
+\c@Hy@tempcnt=\count319
+
+(C:\Program Files\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4801.
+\XeTeXLinkMargin=\dimen275
+
+(C:\Program Files\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Program Files\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count320
+\Field@Width=\dimen276
+\Fld@charsize=\dimen277
+Package hyperref Info: Hyper figures OFF on input line 6078.
+Package hyperref Info: Link nesting OFF on input line 6083.
+Package hyperref Info: Hyper index ON on input line 6086.
+Package hyperref Info: backreferencing OFF on input line 6093.
+Package hyperref Info: Link coloring OFF on input line 6098.
+Package hyperref Info: Link coloring with OCG OFF on input line 6103.
+Package hyperref Info: PDF/A mode OFF on input line 6108.
+\Hy@abspage=\count321
+\c@Item=\count322
+\c@Hfootnote=\count323
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
+\Fld@listcount=\count324
+\c@bookmark@seq@number=\count325
+
+(C:\Program Files\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+
+(C:\Program Files\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
+)
+\Hy@SectionHShift=\skip68
+)
+(C:\Program Files\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+)
+(C:\Program Files\MiKTeX\tex/latex/tools\array.sty
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
+\col@sep=\dimen278
+\ar@mcellbox=\box70
+\extrarowheight=\dimen279
+\NC@list=\toks43
+\extratabsurround=\skip69
+\backup@length=\skip70
+\ar@cellbox=\box71
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)
+(C:\Program Files\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
+\LTleft=\skip71
+\LTright=\skip72
+\LTpre=\skip73
+\LTpost=\skip74
+\LTchunksize=\count326
+\LTcapwidth=\dimen280
+\LT@head=\box72
+\LT@firsthead=\box73
+\LT@foot=\box74
+\LT@lastfoot=\box75
+\LT@gbox=\box76
+\LT@cols=\count327
+\LT@rows=\count328
+\c@LT@tables=\count329
+\c@LT@chunks=\count330
+\LT@p@ftn=\toks44
+)
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count331
+) (main.aux
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+Package babel Info: 'spanish' activates 'spanish' shorthands.
+(babel)             Reported on input line 11.
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=556.47656pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=-13.87262pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count332
+\scratchdimen=\dimen281
+\scratchbox=\box77
+\nofMPsegments=\count333
+\nofMParguments=\count334
+\everyMPshowfont=\toks45
+\MPscratchCnt=\count335
+\MPscratchDim=\dimen282
+\MPnumerator=\count336
+\makeMPintoPDFobject=\count337
+\everyMPtoPDFconversion=\toks46
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Info: Redefining \. on input line 62.
+LaTeX Info: Redefining \% on input line 62.
+LaTeX Info: Redefining \microtypecontext on input line 62.
+Package microtype Info: Applying patch `item' on input line 62.
+Package microtype Info: Applying patch `toc' on input line 62.
+Package microtype Info: Applying patch `eqnum' on input line 62.
+Package microtype Info: Applying patch `footnote' on input line 62.
+Package microtype Info: Applying patch `verbatim' on input line 62.
+LaTeX Info: Redefining \microtypesetup on input line 62.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: No font expansion.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(C:\Program Files\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+Package hyperref Info: Link coloring OFF on input line 62.
+ (main.out) (main.out)
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
+
+(Portada.tex
+<ImagenesFormato/image1.jpg, id=18, 614.295pt x 794.97pt>
+File: ImagenesFormato/image1.jpg Graphic file (type jpg)
+<use ImagenesFormato/image1.jpg>
+Package pdftex.def Info: ImagenesFormato/image1.jpg  used on input line 56.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+
+
+LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <18> not available
+(Font)              size <17.28> substituted on input line 65.
+
+
+LaTeX Font Warning: Font shape `T1/cmr/bx/n' in size <18> not available
+(Font)              size <17.28> substituted on input line 65.
+
+) [1
+
+{C:/Users/allda/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./ImagenesFo
+rmato/image1.jpg>] (Confidencialidad.tex
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.12 \newpage
+             
+<ImagenesFormato/fondo.jpg, id=25, 614.295pt x 794.97pt>
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 12.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [1 <./ImagenesFormato/fondo.jpg>]) (CMI_TITULO.tex
+<CMI/CMILogo.png, id=32, 291.33844pt x 97.86563pt>
+File: CMI/CMILogo.png Graphic file (type png)
+<use CMI/CMILogo.png>
+Package pdftex.def Info: CMI/CMILogo.png  used on input line 6.
+(pdftex.def)             Requested size: 344.005pt x 115.56703pt.
+<CMI/CMILetras.png, id=33, 486.31688pt x 131.74219pt>
+File: CMI/CMILetras.png Graphic file (type png)
+<use CMI/CMILetras.png>
+Package pdftex.def Info: CMI/CMILetras.png  used on input line 11.
+(pdftex.def)             Requested size: 344.005pt x 93.18982pt.
+)
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 91.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [2 <./CMI/CMILogo.png> <./CMI/CMILetras.png>] (main.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+)
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+
+(RecorridoPerspectiva/RecorridoPerspectiva.tex
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+<RecorridoPerspectiva/ImgRecorridoPerspectiva/RP01.png, id=44, 353.52075pt x 20
+0.54926pt>
+File: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP01.png Graphic file (type 
+png)
+<use RecorridoPerspectiva/ImgRecorridoPerspectiva/RP01.png>
+Package pdftex.def Info: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP01.png 
+ used on input line 9.
+(pdftex.def)             Requested size: 324.0049pt x 183.81288pt.
+<RecorridoPerspectiva/ImgRecorridoPerspectiva/RP02.png, id=45, 520.94624pt x 26
+6.1945pt>
+File: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP02.png Graphic file (type 
+png)
+<use RecorridoPerspectiva/ImgRecorridoPerspectiva/RP02.png>
+Package pdftex.def Info: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP02.png 
+ used on input line 17.
+(pdftex.def)             Requested size: 324.0049pt x 165.56285pt.
+<RecorridoPerspectiva/ImgRecorridoPerspectiva/RP03.png, id=46, 511.9125pt x 225
+.84375pt>
+File: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP03.png Graphic file (type 
+png)
+<use RecorridoPerspectiva/ImgRecorridoPerspectiva/RP03.png>
+Package pdftex.def Info: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP03.png 
+ used on input line 25.
+(pdftex.def)             Requested size: 324.0049pt x 142.94395pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 30.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [3 <./RecorridoPerspectiva/ImgRecorridoPerspectiva/RP01.png> <./RecorridoPersp
+ectiva/ImgRecorridoPerspectiva/RP02.png>]
+<RecorridoPerspectiva/ImgRecorridoPerspectiva/RP04.png, id=56, 510.708pt x 224.
+037pt>
+File: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP04.png Graphic file (type 
+png)
+<use RecorridoPerspectiva/ImgRecorridoPerspectiva/RP04.png>
+Package pdftex.def Info: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP04.png 
+ used on input line 34.
+(pdftex.def)             Requested size: 324.0049pt x 142.13884pt.
+<RecorridoPerspectiva/ImgRecorridoPerspectiva/RP05.png, id=57, 510.10574pt x 21
+8.61674pt>
+File: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP05.png Graphic file (type 
+png)
+<use RecorridoPerspectiva/ImgRecorridoPerspectiva/RP05.png>
+Package pdftex.def Info: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP05.png 
+ used on input line 42.
+(pdftex.def)             Requested size: 324.0049pt x 138.8601pt.
+<RecorridoPerspectiva/ImgRecorridoPerspectiva/PR06.png, id=58, 431.81325pt x 19
+9.947pt>
+File: RecorridoPerspectiva/ImgRecorridoPerspectiva/PR06.png Graphic file (type 
+png)
+<use RecorridoPerspectiva/ImgRecorridoPerspectiva/PR06.png>
+Package pdftex.def Info: RecorridoPerspectiva/ImgRecorridoPerspectiva/PR06.png 
+ used on input line 52.
+(pdftex.def)             Requested size: 324.0049pt x 150.03615pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 57.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [4 <./RecorridoPerspectiva/ImgRecorridoPerspectiva/RP03.png> <./RecorridoPersp
+ectiva/ImgRecorridoPerspectiva/RP04.png> <./RecorridoPerspectiva/ImgRecorridoPe
+rspectiva/RP05.png>]
+<RecorridoPerspectiva/ImgRecorridoPerspectiva/RP07.png, id=69, 614.89725pt x 29
+3.29575pt>
+File: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP07.png Graphic file (type 
+png)
+<use RecorridoPerspectiva/ImgRecorridoPerspectiva/RP07.png>
+Package pdftex.def Info: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP07.png 
+ used on input line 60.
+(pdftex.def)             Requested size: 324.0049pt x 154.54645pt.
+<RecorridoPerspectiva/ImgRecorridoPerspectiva/RP08.png, id=70, 659.46375pt x 28
+1.25075pt>
+File: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP08.png Graphic file (type 
+png)
+<use RecorridoPerspectiva/ImgRecorridoPerspectiva/RP08.png>
+Package pdftex.def Info: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP08.png 
+ used on input line 70.
+(pdftex.def)             Requested size: 324.0049pt x 138.18742pt.
+<RecorridoPerspectiva/ImgRecorridoPerspectiva/RP09.png, id=71, 641.39626pt x 27
+8.2395pt>
+File: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP09.png Graphic file (type 
+png)
+<use RecorridoPerspectiva/ImgRecorridoPerspectiva/RP09.png>
+Package pdftex.def Info: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP09.png 
+ used on input line 79.
+(pdftex.def)             Requested size: 324.0049pt x 140.55441pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 85.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [5 <./RecorridoPerspectiva/ImgRecorridoPerspectiva/PR06.png> <./RecorridoPersp
+ectiva/ImgRecorridoPerspectiva/RP07.png> <./RecorridoPerspectiva/ImgRecorridoPe
+rspectiva/RP08.png>]
+<RecorridoPerspectiva/ImgRecorridoPerspectiva/RP10.png, id=83, 555.2745pt x 275
+.8305pt>
+File: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP10.png Graphic file (type 
+png)
+<use RecorridoPerspectiva/ImgRecorridoPerspectiva/RP10.png>
+Package pdftex.def Info: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP10.png 
+ used on input line 94.
+(pdftex.def)             Requested size: 324.0049pt x 160.95403pt.
+<RecorridoPerspectiva/ImgRecorridoPerspectiva/RP11.png, id=84, 620.3175pt x 287
+.27325pt>
+File: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP11.png Graphic file (type 
+png)
+<use RecorridoPerspectiva/ImgRecorridoPerspectiva/RP11.png>
+Package pdftex.def Info: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP11.png 
+ used on input line 105.
+(pdftex.def)             Requested size: 324.0049pt x 150.04922pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 110.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [6 <./RecorridoPerspectiva/ImgRecorridoPerspectiva/RP09.png> <./RecorridoPersp
+ectiva/ImgRecorridoPerspectiva/RP10.png>]
+<RecorridoPerspectiva/ImgRecorridoPerspectiva/RP12.png, id=95, 563.706pt x 299.
+31825pt>
+File: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP12.png Graphic file (type 
+png)
+<use RecorridoPerspectiva/ImgRecorridoPerspectiva/RP12.png>
+Package pdftex.def Info: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP12.png 
+ used on input line 114.
+(pdftex.def)             Requested size: 324.0049pt x 172.04271pt.
+<RecorridoPerspectiva/ImgRecorridoPerspectiva/RP13.png, id=96, 585.98924pt x 28
+1.25075pt>
+File: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP13.png Graphic file (type 
+png)
+<use RecorridoPerspectiva/ImgRecorridoPerspectiva/RP13.png>
+Package pdftex.def Info: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP13.png 
+ used on input line 123.
+(pdftex.def)             Requested size: 324.0049pt x 155.51234pt.
+<RecorridoPerspectiva/ImgRecorridoPerspectiva/RP14.png, id=97, 598.03426pt x 28
+7.27325pt>
+File: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP14.png Graphic file (type 
+png)
+<use RecorridoPerspectiva/ImgRecorridoPerspectiva/RP14.png>
+Package pdftex.def Info: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP14.png 
+ used on input line 132.
+(pdftex.def)             Requested size: 324.0049pt x 155.6381pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 137.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [7 <./RecorridoPerspectiva/ImgRecorridoPerspectiva/RP11.png> <./RecorridoPersp
+ectiva/ImgRecorridoPerspectiva/RP12.png> <./RecorridoPerspectiva/ImgRecorridoPe
+rspectiva/RP13.png>]
+<RecorridoPerspectiva/ImgRecorridoPerspectiva/RP15.png, id=108, 473.3685pt x 22
+5.84375pt>
+File: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP15.png Graphic file (type 
+png)
+<use RecorridoPerspectiva/ImgRecorridoPerspectiva/RP15.png>
+Package pdftex.def Info: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP15.png 
+ used on input line 141.
+(pdftex.def)             Requested size: 324.0049pt x 154.5883pt.
+<RecorridoPerspectiva/ImgRecorridoPerspectiva/RP16.png, id=109, 609.477pt x 292
+.6935pt>
+File: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP16.png Graphic file (type 
+png)
+<use RecorridoPerspectiva/ImgRecorridoPerspectiva/RP16.png>
+Package pdftex.def Info: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP16.png 
+ used on input line 150.
+(pdftex.def)             Requested size: 324.0049pt x 155.60022pt.
+<RecorridoPerspectiva/ImgRecorridoPerspectiva/RP17.png, id=110, 585.98924pt x 2
+98.11375pt>
+File: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP17.png Graphic file (type 
+png)
+<use RecorridoPerspectiva/ImgRecorridoPerspectiva/RP17.png>
+Package pdftex.def Info: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP17.png 
+ used on input line 159.
+(pdftex.def)             Requested size: 324.0049pt x 164.83644pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 164.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [8 <./RecorridoPerspectiva/ImgRecorridoPerspectiva/RP14.png> <./RecorridoPersp
+ectiva/ImgRecorridoPerspectiva/RP15.png> <./RecorridoPerspectiva/ImgRecorridoPe
+rspectiva/RP16.png>]
+<RecorridoPerspectiva/ImgRecorridoPerspectiva/RP18.png, id=121, 576.9555pt x 27
+2.81924pt>
+File: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP18.png Graphic file (type 
+png)
+<use RecorridoPerspectiva/ImgRecorridoPerspectiva/RP18.png>
+Package pdftex.def Info: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP18.png 
+ used on input line 168.
+(pdftex.def)             Requested size: 324.0049pt x 153.21066pt.
+<RecorridoPerspectiva/ImgRecorridoPerspectiva/RP19.png, id=122, 618.51076pt x 3
+20.397pt>
+File: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP19.png Graphic file (type 
+png)
+<use RecorridoPerspectiva/ImgRecorridoPerspectiva/RP19.png>
+Package pdftex.def Info: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP19.png 
+ used on input line 177.
+(pdftex.def)             Requested size: 324.0049pt x 167.83939pt.
+<RecorridoPerspectiva/ImgRecorridoPerspectiva/RP20.png, id=123, 667.293pt x 296
+.307pt>
+File: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP20.png Graphic file (type 
+png)
+<use RecorridoPerspectiva/ImgRecorridoPerspectiva/RP20.png>
+Package pdftex.def Info: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP20.png 
+ used on input line 186.
+(pdftex.def)             Requested size: 324.0049pt x 143.87148pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 192.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [9 <./RecorridoPerspectiva/ImgRecorridoPerspectiva/RP17.png> <./RecorridoPersp
+ectiva/ImgRecorridoPerspectiva/RP18.png> <./RecorridoPerspectiva/ImgRecorridoPe
+rspectiva/RP19.png>]
+<RecorridoPerspectiva/ImgRecorridoPerspectiva/RP21.png, id=134, 610.07925pt x 3
+44.487pt>
+File: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP21.png Graphic file (type 
+png)
+<use RecorridoPerspectiva/ImgRecorridoPerspectiva/RP21.png>
+Package pdftex.def Info: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP21.png 
+ used on input line 196.
+(pdftex.def)             Requested size: 324.0049pt x 182.95569pt.
+<RecorridoPerspectiva/ImgRecorridoPerspectiva/RP22.png, id=135, 672.71326pt x 3
+26.4195pt>
+File: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP22.png Graphic file (type 
+png)
+<use RecorridoPerspectiva/ImgRecorridoPerspectiva/RP22.png>
+Package pdftex.def Info: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP22.png 
+ used on input line 205.
+(pdftex.def)             Requested size: 324.0049pt x 157.21748pt.
+<RecorridoPerspectiva/ImgRecorridoPerspectiva/RP23.png, id=136, 635.37375pt x 3
+43.88475pt>
+File: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP23.png Graphic file (type 
+png)
+<use RecorridoPerspectiva/ImgRecorridoPerspectiva/RP23.png>
+Package pdftex.def Info: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP23.png 
+ used on input line 214.
+(pdftex.def)             Requested size: 324.0049pt x 175.36841pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 219.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [10 <./RecorridoPerspectiva/ImgRecorridoPerspectiva/RP20.png> <./RecorridoPers
+pectiva/ImgRecorridoPerspectiva/RP21.png> <./RecorridoPerspectiva/ImgRecorridoP
+erspectiva/RP22.png>]
+<RecorridoPerspectiva/ImgRecorridoPerspectiva/RP24.png, id=147, 663.6795pt x 33
+2.442pt>
+File: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP24.png Graphic file (type 
+png)
+<use RecorridoPerspectiva/ImgRecorridoPerspectiva/RP24.png>
+Package pdftex.def Info: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP24.png 
+ used on input line 223.
+(pdftex.def)             Requested size: 324.0049pt x 162.29942pt.
+<RecorridoPerspectiva/ImgRecorridoPerspectiva/RP25.png, id=148, 651.6345pt x 30
+5.34074pt>
+File: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP25.png Graphic file (type 
+png)
+<use RecorridoPerspectiva/ImgRecorridoPerspectiva/RP25.png>
+Package pdftex.def Info: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP25.png 
+ used on input line 232.
+(pdftex.def)             Requested size: 324.0049pt x 151.82204pt.
+<RecorridoPerspectiva/ImgRecorridoPerspectiva/RP26.png, id=149, 587.796pt x 325
+.81725pt>
+File: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP26.png Graphic file (type 
+png)
+<use RecorridoPerspectiva/ImgRecorridoPerspectiva/RP26.png>
+Package pdftex.def Info: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP26.png 
+ used on input line 242.
+(pdftex.def)             Requested size: 324.0049pt x 179.59775pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 247.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [11 <./RecorridoPerspectiva/ImgRecorridoPerspectiva/RP23.png> <./RecorridoPers
+pectiva/ImgRecorridoPerspectiva/RP24.png> <./RecorridoPerspectiva/ImgRecorridoP
+erspectiva/RP25.png>]
+<RecorridoPerspectiva/ImgRecorridoPerspectiva/RP27.png, id=160, 607.068pt x 326
+.4195pt>
+File: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP27.png Graphic file (type 
+png)
+<use RecorridoPerspectiva/ImgRecorridoPerspectiva/RP27.png>
+Package pdftex.def Info: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP27.png 
+ used on input line 251.
+(pdftex.def)             Requested size: 324.0049pt x 174.2168pt.
+<RecorridoPerspectiva/ImgRecorridoPerspectiva/RP28.png, id=161, 548.64975pt x 3
+11.36325pt>
+File: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP28.png Graphic file (type 
+png)
+<use RecorridoPerspectiva/ImgRecorridoPerspectiva/RP28.png>
+Package pdftex.def Info: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP28.png 
+ used on input line 260.
+(pdftex.def)             Requested size: 324.0049pt x 183.88326pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 265.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [12 <./RecorridoPerspectiva/ImgRecorridoPerspectiva/RP26.png> <./RecorridoPers
+pectiva/ImgRecorridoPerspectiva/RP27.png>]
+<RecorridoPerspectiva/ImgRecorridoPerspectiva/RP29.png, id=171, 373.395pt x 250
+.536pt>
+File: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP29.png Graphic file (type 
+png)
+<use RecorridoPerspectiva/ImgRecorridoPerspectiva/RP29.png>
+Package pdftex.def Info: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP29.png 
+ used on input line 269.
+(pdftex.def)             Requested size: 324.0049pt x 217.4064pt.
+<RecorridoPerspectiva/ImgRecorridoPerspectiva/RP30.png, id=172, 493.845pt x 335
+.45325pt>
+File: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP30.png Graphic file (type 
+png)
+<use RecorridoPerspectiva/ImgRecorridoPerspectiva/RP30.png>
+Package pdftex.def Info: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP30.png 
+ used on input line 285.
+(pdftex.def)             Requested size: 243.00522pt x 165.06453pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 290.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+
+[13 <./RecorridoPerspectiva/ImgRecorridoPerspectiva/RP28.png> <./RecorridoPersp
+ectiva/ImgRecorridoPerspectiva/RP29.png>]
+<RecorridoPerspectiva/ImgRecorridoPerspectiva/RP31.png, id=181, 483.0045pt x 32
+6.4195pt>
+File: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP31.png Graphic file (type 
+png)
+<use RecorridoPerspectiva/ImgRecorridoPerspectiva/RP31.png>
+Package pdftex.def Info: RecorridoPerspectiva/ImgRecorridoPerspectiva/RP31.png 
+ used on input line 294.
+(pdftex.def)             Requested size: 324.0049pt x 218.9639pt.
+) (NivelPUC/NivelPUC.tex
+(NivelPUC/Creacion/CreacionSimple.tex
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 1.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [14 <./RecorridoPerspectiva/ImgRecorridoPerspectiva/RP30.png> <./RecorridoPers
+pectiva/ImgRecorridoPerspectiva/RP31.png>]
+<NivelPUC/Creacion/ImgCreacion/CS01.png, id=191, 872.50969pt x 414.04688pt>
+File: NivelPUC/Creacion/ImgCreacion/CS01.png Graphic file (type png)
+<use NivelPUC/Creacion/ImgCreacion/CS01.png>
+Package pdftex.def Info: NivelPUC/Creacion/ImgCreacion/CS01.png  used on input 
+line 9.
+(pdftex.def)             Requested size: 324.0049pt x 153.7509pt.
+<NivelPUC/Creacion/ImgCreacion/CS02.png, id=192, 865.73438pt x 332.74312pt>
+File: NivelPUC/Creacion/ImgCreacion/CS02.png Graphic file (type png)
+<use NivelPUC/Creacion/ImgCreacion/CS02.png>
+Package pdftex.def Info: NivelPUC/Creacion/ImgCreacion/CS02.png  used on input 
+line 16.
+(pdftex.def)             Requested size: 324.0049pt x 124.52957pt.
+<NivelPUC/Creacion/ImgCreacion/CS03.png, id=193, 847.66687pt x 338.01282pt>
+File: NivelPUC/Creacion/ImgCreacion/CS03.png Graphic file (type png)
+<use NivelPUC/Creacion/ImgCreacion/CS03.png>
+Package pdftex.def Info: NivelPUC/Creacion/ImgCreacion/CS03.png  used on input 
+line 25.
+(pdftex.def)             Requested size: 324.0049pt x 129.19922pt.
+<NivelPUC/Creacion/ImgCreacion/CS04.png, id=194, 843.15pt x 414.79968pt>
+File: NivelPUC/Creacion/ImgCreacion/CS04.png Graphic file (type png)
+<use NivelPUC/Creacion/ImgCreacion/CS04.png>
+Package pdftex.def Info: NivelPUC/Creacion/ImgCreacion/CS04.png  used on input 
+line 33.
+(pdftex.def)             Requested size: 324.0049pt x 159.39772pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 38.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+[15 <./NivelPUC/Creacion/ImgCreacion/CS01.png> <./NivelPUC/Creacion/ImgCreacion
+/CS02.png> <./NivelPUC/Creacion/ImgCreacion/CS03.png>]
+<NivelPUC/Creacion/ImgCreacion/CS05.png, id=206, 783.67781pt x 462.22687pt>
+File: NivelPUC/Creacion/ImgCreacion/CS05.png Graphic file (type png)
+<use NivelPUC/Creacion/ImgCreacion/CS05.png>
+Package pdftex.def Info: NivelPUC/Creacion/ImgCreacion/CS05.png  used on input 
+line 42.
+(pdftex.def)             Requested size: 324.0049pt x 191.10822pt.
+<NivelPUC/Creacion/ImgCreacion/CS06.png, id=207, 774.64406pt x 459.21562pt>
+File: NivelPUC/Creacion/ImgCreacion/CS06.png Graphic file (type png)
+<use NivelPUC/Creacion/ImgCreacion/CS06.png>
+Package pdftex.def Info: NivelPUC/Creacion/ImgCreacion/CS06.png  used on input 
+line 51.
+(pdftex.def)             Requested size: 324.0049pt x 192.07043pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 56.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [16 <./NivelPUC/Creacion/ImgCreacion/CS04.png> <./NivelPUC/Creacion/ImgCreacio
+n/CS05.png>]
+<NivelPUC/Creacion/ImgCreacion/CS07.png, id=216, 833.36343pt x 346.29375pt>
+File: NivelPUC/Creacion/ImgCreacion/CS07.png Graphic file (type png)
+<use NivelPUC/Creacion/ImgCreacion/CS07.png>
+Package pdftex.def Info: NivelPUC/Creacion/ImgCreacion/CS07.png  used on input 
+line 60.
+(pdftex.def)             Requested size: 324.0049pt x 134.63657pt.
+<NivelPUC/Creacion/ImgCreacion/CS08.png, id=217, 788.9475pt x 302.63063pt>
+File: NivelPUC/Creacion/ImgCreacion/CS08.png Graphic file (type png)
+<use NivelPUC/Creacion/ImgCreacion/CS08.png>
+Package pdftex.def Info: NivelPUC/Creacion/ImgCreacion/CS08.png  used on input 
+line 73.
+(pdftex.def)             Requested size: 324.0049pt x 124.28253pt.
+<NivelPUC/Creacion/ImgCreacion/CS09.png, id=218, 731.73375pt x 423.08063pt>
+File: NivelPUC/Creacion/ImgCreacion/CS09.png Graphic file (type png)
+<use NivelPUC/Creacion/ImgCreacion/CS09.png>
+Package pdftex.def Info: NivelPUC/Creacion/ImgCreacion/CS09.png  used on input 
+line 82.
+(pdftex.def)             Requested size: 324.0049pt x 187.33743pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 87.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [17 <./NivelPUC/Creacion/ImgCreacion/CS06.png> <./NivelPUC/Creacion/ImgCreacio
+n/CS07.png> <./NivelPUC/Creacion/ImgCreacion/CS08.png>]
+<NivelPUC/Creacion/ImgCreacion/CS10.png, id=229, 888.31876pt x 432.11438pt>
+File: NivelPUC/Creacion/ImgCreacion/CS10.png Graphic file (type png)
+<use NivelPUC/Creacion/ImgCreacion/CS10.png>
+Package pdftex.def Info: NivelPUC/Creacion/ImgCreacion/CS10.png  used on input 
+line 91.
+(pdftex.def)             Requested size: 324.0049pt x 157.60504pt.
+<NivelPUC/Creacion/ImgCreacion/CS11.png, id=230, 760.34062pt x 452.4403pt>
+File: NivelPUC/Creacion/ImgCreacion/CS11.png Graphic file (type png)
+<use NivelPUC/Creacion/ImgCreacion/CS11.png>
+Package pdftex.def Info: NivelPUC/Creacion/ImgCreacion/CS11.png  used on input 
+line 100.
+(pdftex.def)             Requested size: 324.0049pt x 192.7989pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 105.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [18 <./NivelPUC/Creacion/ImgCreacion/CS09.png> <./NivelPUC/Creacion/ImgCreacio
+n/CS10.png>]
+<NivelPUC/Creacion/ImgCreacion/CS12.png, id=240, 773.13844pt x 478.78876pt>
+File: NivelPUC/Creacion/ImgCreacion/CS12.png Graphic file (type png)
+<use NivelPUC/Creacion/ImgCreacion/CS12.png>
+Package pdftex.def Info: NivelPUC/Creacion/ImgCreacion/CS12.png  used on input 
+line 109.
+(pdftex.def)             Requested size: 324.0049pt x 200.65155pt.
+<NivelPUC/Creacion/ImgCreacion/CS13.png, id=241, 855.195pt x 444.91219pt>
+File: NivelPUC/Creacion/ImgCreacion/CS13.png Graphic file (type png)
+<use NivelPUC/Creacion/ImgCreacion/CS13.png>
+Package pdftex.def Info: NivelPUC/Creacion/ImgCreacion/CS13.png  used on input 
+line 118.
+(pdftex.def)             Requested size: 324.0049pt x 168.55922pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 123.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [19 <./NivelPUC/Creacion/ImgCreacion/CS11.png> <./NivelPUC/Creacion/ImgCreacio
+n/CS12.png>]
+<NivelPUC/Creacion/ImgCreacion/CS14.png, id=250, 837.88031pt x 446.41782pt>
+File: NivelPUC/Creacion/ImgCreacion/CS14.png Graphic file (type png)
+<use NivelPUC/Creacion/ImgCreacion/CS14.png>
+Package pdftex.def Info: NivelPUC/Creacion/ImgCreacion/CS14.png  used on input 
+line 127.
+(pdftex.def)             Requested size: 324.0049pt x 172.62408pt.
+<NivelPUC/Creacion/ImgCreacion/CS15.png, id=251, 756.57657pt x 459.96844pt>
+File: NivelPUC/Creacion/ImgCreacion/CS15.png Graphic file (type png)
+<use NivelPUC/Creacion/ImgCreacion/CS15.png>
+Package pdftex.def Info: NivelPUC/Creacion/ImgCreacion/CS15.png  used on input 
+line 136.
+(pdftex.def)             Requested size: 324.0049pt x 196.98245pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 141.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [20 <./NivelPUC/Creacion/ImgCreacion/CS13.png> <./NivelPUC/Creacion/ImgCreacio
+n/CS14.png>]
+File: NivelPUC/Creacion/ImgCreacion/CS15.png Graphic file (type png)
+<use NivelPUC/Creacion/ImgCreacion/CS15.png>
+Package pdftex.def Info: NivelPUC/Creacion/ImgCreacion/CS15.png  used on input 
+line 145.
+(pdftex.def)             Requested size: 324.0049pt x 196.98245pt.
+<NivelPUC/Creacion/ImgCreacion/CS16.png, id=260, 818.30719pt x 441.90094pt>
+File: NivelPUC/Creacion/ImgCreacion/CS16.png Graphic file (type png)
+<use NivelPUC/Creacion/ImgCreacion/CS16.png>
+Package pdftex.def Info: NivelPUC/Creacion/ImgCreacion/CS16.png  used on input 
+line 154.
+(pdftex.def)             Requested size: 324.0049pt x 174.97038pt.
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 158.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+
+[21 <./NivelPUC/Creacion/ImgCreacion/CS15.png>])) (Contraportada.tex
+File: ImagenesFormato/fondo.jpg Graphic file (type jpg)
+<use ImagenesFormato/fondo.jpg>
+Package pdftex.def Info: ImagenesFormato/fondo.jpg  used on input line 9.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+ [22 <./NivelPUC/Creacion/ImgCreacion/CS16.png>]
+<ImagenesFormato/image3.jpg, id=274, 614.295pt x 794.97pt>
+File: ImagenesFormato/image3.jpg Graphic file (type jpg)
+<use ImagenesFormato/image3.jpg>
+Package pdftex.def Info: ImagenesFormato/image3.jpg  used on input line 18.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+) [23 <./ImagenesFormato/image3.jpg>]
+(main.aux
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+ ***********
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.72pt have occurred.
+
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 9A38074F09EE16B3313B415FD0D366BB;692.
+ ) 
+Here is how much of TeX's memory you used:
+ 24937 strings out of 467871
+ 469736 string characters out of 5428442
+ 898369 words of memory out of 5000000
+ 53342 multiletter control sequences out of 15000+600000
+ 635735 words of font info for 51 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 84i,13n,94p,1003b,897s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\allda\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx
+1200.pk> <C:\Users\allda\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\ecrm0700.pk> <C:\Users\allda\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\ecrm0500.pk> <C:\Users\allda\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ectt1000.pk> <C:\Users\allda\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\allda\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\allda\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\allda\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk>
+Output written on main.pdf (24 pages, 12445716 bytes).
+PDF statistics:
+ 523 PDF objects out of 1000 (max. 8388607)
+ 75 named destinations out of 1000 (max. 500000)
+ 7465 words of extra memory for PDF output out of 10000 (max. 10000000)
+

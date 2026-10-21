@@ -1,0 +1,4 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Recorrido por Perspectiva de Cuentas Contables}{3}{section.1}%
+\contentsline {section}{\numberline {2}Cuentas Contables - Nivel PUC}{15}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Creación de Cuenta Contable}{15}{subsection.2.1}%

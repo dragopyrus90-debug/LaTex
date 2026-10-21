@@ -1,0 +1,20 @@
+
+% \AddToShipoutPictureBG*{%
+%     \AtPageLowerLeft{%
+%         \includegraphics[width=\paperwidth,height=\paperheight]{ImagenesFormato/image3.jpg}
+%     }%
+% }
+
+% \mbox{}
+\newpage
+
+\NoBgThispage
+\begin{tikzpicture}[remember picture,overlay]
+
+\node at (current page.center) {%
+    \includegraphics[
+        width=\paperwidth,
+        height=\paperheight
+    ]{ImagenesFormato/image3.jpg}
+};
+\end{tikzpicture}
